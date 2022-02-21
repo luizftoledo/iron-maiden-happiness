@@ -1,0 +1,792 @@
+name,album_name,popularity,release_date,valence,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,tempo,duration_ms,year
+Senjutsu,Senjutsu,43,2021-09-03,0.466,0.347,0.885,9,-6.121,0,0.0615,0.000171,0.0892,0.217,180.172,500171,2021
+Stratego,Senjutsu,44,2021-09-03,0.465,0.473,0.968,4,-7.297,0,0.0642,0.000144,0.0347,0.612,138.054,299946,2021
+The Writing On The Wall,Senjutsu,49,2021-09-03,0.566,0.402,0.912,2,-5.447,0,0.0442,0.00158,0.000179,0.0923,90.045,373899,2021
+Lost In A Lost World,Senjutsu,42,2021-09-03,0.206,0.251,0.871,4,-6.414,0,0.0871,0.00407,0.00751,0.108,92.975,571584,2021
+Days Of Future Past,Senjutsu,46,2021-09-03,0.476,0.433,0.92,4,-4.738,0,0.0409,0.000576,5.5e-05,0.123,92.466,243755,2021
+The Time Machine,Senjutsu,40,2021-09-03,0.316,0.297,0.889,9,-5.287,0,0.0607,0.00654,0.000211,0.118,116.65,429444,2021
+Darkest Hour,Senjutsu,40,2021-09-03,0.162,0.222,0.925,4,-5.939,0,0.24,0.0542,0.0863,0.395,133.772,440465,2021
+Death Of The Celts,Senjutsu,38,2021-09-03,0.26,0.291,0.804,2,-5.807,1,0.0414,0.00711,0.21,0.12,134.561,620403,2021
+The Parchment,Senjutsu,40,2021-09-03,0.212,0.149,0.924,4,-5.345,0,0.0933,0.0141,0.219,0.107,80.234,758991,2021
+Hell On Earth,Senjutsu,40,2021-09-03,0.0628,0.298,0.842,4,-6.692,0,0.0563,0.00952,0.0299,0.0846,132.65,679135,2021
+Senjutsu,Senjutsu,57,2021-09-03,0.466,0.347,0.885,9,-6.121,0,0.0615,0.000171,0.0892,0.217,180.172,500171,2021
+Stratego,Senjutsu,57,2021-09-03,0.465,0.473,0.968,4,-7.297,0,0.0642,0.000144,0.0347,0.612,138.054,299946,2021
+The Writing On The Wall,Senjutsu,63,2021-09-03,0.566,0.402,0.912,2,-5.447,0,0.0442,0.00158,0.000179,0.0923,90.045,373899,2021
+Lost In A Lost World,Senjutsu,56,2021-09-03,0.206,0.251,0.871,4,-6.414,0,0.0871,0.00407,0.00751,0.108,92.975,571584,2021
+Days Of Future Past,Senjutsu,59,2021-09-03,0.476,0.433,0.92,4,-4.738,0,0.0409,0.000576,5.5e-05,0.123,92.466,243755,2021
+The Time Machine,Senjutsu,54,2021-09-03,0.316,0.297,0.889,9,-5.287,0,0.0607,0.00654,0.000211,0.118,116.65,429444,2021
+Darkest Hour,Senjutsu,54,2021-09-03,0.162,0.222,0.925,4,-5.939,0,0.24,0.0542,0.0863,0.395,133.772,440465,2021
+Death Of The Celts,Senjutsu,52,2021-09-03,0.26,0.291,0.804,2,-5.807,1,0.0414,0.00711,0.21,0.12,134.561,620403,2021
+The Parchment,Senjutsu,54,2021-09-03,0.212,0.149,0.924,4,-5.345,0,0.0933,0.0141,0.219,0.107,80.234,758991,2021
+Hell On Earth,Senjutsu,54,2021-09-03,0.0628,0.298,0.842,4,-6.692,0,0.0563,0.00952,0.0299,0.0846,132.65,679135,2021
+"Churchill’s Speech - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",20,2020-11-20,0.0394,0.338,0.904,5,-12.851,0,0.161,0.433,0.134,0.91,85.128,38827,2020
+"Aces High - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",21,2020-11-20,0.0704,0.273,0.997,7,-4.956,1,0.126,0.00768,0.0469,0.852,127.267,298789,2020
+"Where Eagles Dare - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",20,2020-11-20,0.101,0.237,0.996,9,-4.678,1,0.14,0.000254,0.102,0.713,113.782,312688,2020
+"2 Minutes To Midnight - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",19,2020-11-20,0.166,0.219,0.994,9,-5.088,0,0.111,0.00124,0.00366,0.944,96.345,354165,2020
+"The Clansman - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",19,2020-11-20,0.159,0.178,0.959,2,-5.648,1,0.0951,0.0207,0.0196,0.937,80.827,556832,2020
+"The Trooper - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",19,2020-11-20,0.242,0.186,0.995,4,-5.178,0,0.115,0.0012,0.0779,0.975,175.632,242325,2020
+"Revelations - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",18,2020-11-20,0.224,0.235,0.982,9,-6.034,0,0.114,0.00123,0.00196,0.948,80.684,392277,2020
+"For The Greater Good Of God - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",18,2020-11-20,0.159,0.281,0.972,4,-5.429,0,0.187,0.0036,0.0491,0.596,119.308,563488,2020
+"The Wickerman - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",17,2020-11-20,0.138,0.227,0.987,7,-5.091,1,0.13,0.000261,0.0191,0.903,99.386,283630,2020
+"Sign Of The Cross - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",17,2020-11-20,0.134,0.26,0.944,0,-6.455,1,0.0779,0.00167,0.249,0.944,109.698,660651,2020
+"Flight Of Icarus - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",18,2020-11-20,0.229,0.362,0.984,6,-4.535,0,0.101,0.000806,2.93e-05,0.986,126.031,223430,2020
+"Fear Of The Dark - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",17,2020-11-20,0.102,0.268,0.978,2,-5.941,0,0.148,0.00197,0.0785,0.788,128.005,466937,2020
+"The Number Of The Beast - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",16,2020-11-20,0.258,0.296,0.984,7,-5.657,1,0.105,0.00281,0.0404,0.858,97.405,299612,2020
+"Iron Maiden - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",15,2020-11-20,0.148,0.137,0.992,9,-5.179,0,0.236,0.00171,0.0126,0.891,183.261,330982,2020
+"The Evil That Men Do - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",15,2020-11-20,0.0829,0.184,0.995,4,-4.871,0,0.19,0.00106,0.0199,0.881,174.972,265547,2020
+"Hallowed Be Thy Name - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",17,2020-11-20,0.135,0.294,0.985,4,-5.393,0,0.15,0.000978,0.0254,0.782,114.79,458143,2020
+"Run To The Hills - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",15,2020-11-20,0.114,0.172,0.992,0,-4.853,1,0.186,0.00119,0.000699,0.778,167.171,307364,2020
+"Churchill’s Speech - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",34,2020-11-20,0.0394,0.338,0.904,5,-12.851,0,0.161,0.433,0.134,0.91,85.128,38827,2020
+"Aces High - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",37,2020-11-20,0.0704,0.273,0.997,7,-4.956,1,0.126,0.00768,0.0469,0.852,127.267,298789,2020
+"Where Eagles Dare - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",35,2020-11-20,0.101,0.237,0.996,9,-4.678,1,0.14,0.000254,0.102,0.713,113.782,312688,2020
+"2 Minutes To Midnight - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",34,2020-11-20,0.166,0.219,0.994,9,-5.088,0,0.111,0.00124,0.00366,0.944,96.345,354165,2020
+"The Clansman - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",35,2020-11-20,0.159,0.178,0.959,2,-5.648,1,0.0951,0.0207,0.0196,0.937,80.827,556832,2020
+"The Trooper - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",34,2020-11-20,0.242,0.186,0.995,4,-5.178,0,0.115,0.0012,0.0779,0.975,175.632,242325,2020
+"Revelations - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",33,2020-11-20,0.224,0.235,0.982,9,-6.034,0,0.114,0.00123,0.00196,0.948,80.684,392277,2020
+"For The Greater Good Of God - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",34,2020-11-20,0.159,0.281,0.972,4,-5.429,0,0.187,0.0036,0.0491,0.596,119.308,563488,2020
+"The Wickerman - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",32,2020-11-20,0.138,0.227,0.987,7,-5.091,1,0.13,0.000261,0.0191,0.903,99.386,283630,2020
+"Sign Of The Cross - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",32,2020-11-20,0.134,0.26,0.944,0,-6.455,1,0.0779,0.00167,0.249,0.944,109.698,660651,2020
+"Flight Of Icarus - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",33,2020-11-20,0.229,0.362,0.984,6,-4.535,0,0.101,0.000806,2.93e-05,0.986,126.031,223430,2020
+"Fear Of The Dark - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",33,2020-11-20,0.102,0.268,0.978,2,-5.941,0,0.148,0.00197,0.0785,0.788,128.005,466937,2020
+"The Number Of The Beast - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",31,2020-11-20,0.258,0.296,0.984,7,-5.657,1,0.105,0.00281,0.0404,0.858,97.405,299612,2020
+"Iron Maiden - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",30,2020-11-20,0.148,0.137,0.992,9,-5.179,0,0.236,0.00171,0.0126,0.891,183.261,330982,2020
+"The Evil That Men Do - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",30,2020-11-20,0.0829,0.184,0.995,4,-4.871,0,0.19,0.00106,0.0199,0.881,174.972,265547,2020
+"Hallowed Be Thy Name - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",31,2020-11-20,0.135,0.294,0.985,4,-5.393,0,0.15,0.000978,0.0254,0.782,114.79,458143,2020
+"Run To The Hills - Live in Mexico City, Palacio de los Deportes, Mexico, September 2019","Nights of the Dead, Legacy of the Beast: Live in Mexico City",30,2020-11-20,0.114,0.172,0.992,0,-4.853,1,0.186,0.00119,0.000699,0.778,167.171,307364,2020
+"If Eternity Should Fail - Live at Qudos Bank Arena, Sydney, Australia - 6th May 2016",The Book of Souls: Live Chapter,32,2017-11-17,0.119,0.262,0.97,0,-5.107,1,0.133,0.000157,6.79e-05,0.891,129.328,466573,2017
+"Speed of Light - Live at GrandWest Arena, Cape Town, South Africa - 18th May 2016",The Book of Souls: Live Chapter,31,2017-11-17,0.165,0.131,0.993,0,-4.066,1,0.319,0.000826,3.1e-05,0.968,180.854,308853,2017
+"Wrathchild - Live at 3 Arena, Dublin, Ireland - 6th May 2017",The Book of Souls: Live Chapter,30,2017-11-17,0.218,0.413,0.988,4,-4.388,0,0.207,0.000667,0.000784,0.932,104.934,179973,2017
+"Children of the Damned - Live at Bell Center, Montreal, Canada - 1st April 2016",The Book of Souls: Live Chapter,31,2017-11-17,0.175,0.188,0.949,4,-6.276,0,0.195,0.000736,0.000794,0.894,91.902,314520,2017
+"Death or Glory - Live at Wroclaw Stadium, Wroclaw, Poland - 3rd July 2016",The Book of Souls: Live Chapter,30,2017-11-17,0.125,0.303,0.988,11,-4.045,1,0.21,6.51e-05,1.57e-05,0.93,90.152,315707,2017
+"The Red and the Black - Live at Ryogoku Kokugikan, Tokyo, Japan - 21st April 2016",The Book of Souls: Live Chapter,33,2017-11-17,0.301,0.165,0.955,9,-5.115,0,0.27,1.89e-05,0.0337,0.661,77.244,797373,2017
+"The Trooper - Live at Estadio Jorge Magico Gonzalez, San Salvador, El Salvador - 6th March 2016",The Book of Souls: Live Chapter,33,2017-11-17,0.148,0.192,0.991,11,-5.115,0,0.226,3.95e-05,0.0265,0.913,177.334,245160,2017
+"Powerslave - Live at Plaza Dell'Unita D'Italia, Trieste, Italy - 26th July 2016",The Book of Souls: Live Chapter,30,2017-11-17,0.103,0.213,0.985,9,-5.306,1,0.229,0.000177,0.0482,0.683,138.033,451773,2017
+"The Great Unknown - Live at MRA Arena, Newcastle, England - 14th May 2017",The Book of Souls: Live Chapter,28,2017-11-17,0.0569,0.176,0.944,9,-4.385,0,0.368,0.00263,0.000565,0.876,182.431,410400,2017
+"The Book of Souls - Live at Download Festival, Donington, England - 12th June 2016",The Book of Souls: Live Chapter,31,2017-11-17,0.221,0.185,0.96,0,-5.046,1,0.127,0.000132,0.000332,0.717,81.908,649613,2017
+"Fear of the Dark - Live at Arena Castelao, Fortaleza, Brazil - 24th March 2016",The Book of Souls: Live Chapter,32,2017-11-17,0.0954,0.262,0.969,2,-4.931,0,0.156,0.00142,0.000933,0.439,122.516,454253,2017
+"Iron Maiden - Live at Estadio Velez Sarsfield, Buenos Aires, Argentina - 15th March 2016",The Book of Souls: Live Chapter,27,2017-11-17,0.0719,0.106,0.991,9,-4.649,0,0.305,0.000927,0.000114,0.961,181.876,365293,2017
+"The Number of the Beast - Live at Open Air Festival, Wacken, Germany - 4th August 2016",The Book of Souls: Live Chapter,29,2017-11-17,0.223,0.243,0.984,0,-4.46,1,0.166,0.000763,0.0187,0.89,97.272,306213,2017
+"Blood Brothers - Live at Download Festival, Donington, England - 12th June 2016",The Book of Souls: Live Chapter,29,2017-11-17,0.32,0.178,0.902,4,-5.698,0,0.147,0.00468,2.18e-06,0.823,184.808,455080,2017
+"Wasted Years - Live at HSBC Arena, Rio De Janeiro, Brazil - 17th March 2016",The Book of Souls: Live Chapter,30,2017-11-17,0.088,0.193,0.994,9,-3.51,1,0.17,0.000217,4.15e-05,0.921,158.832,338547,2017
+"If Eternity Should Fail - Live at Qudos Bank Arena, Sydney, Australia - 6th May 2016",The Book of Souls: The Live Chapter,18,2017-11-17,0.119,0.262,0.97,0,-5.107,1,0.133,0.000157,6.79e-05,0.891,129.328,466573,2017
+"Speed of Light - Live at GrandWest Arena, Cape Town, South Africa - 18th May 2016",The Book of Souls: The Live Chapter,16,2017-11-17,0.165,0.131,0.993,0,-4.066,1,0.319,0.000826,3.1e-05,0.968,180.854,308853,2017
+"Wrathchild - Live at 3 Arena, Dublin, Ireland - 6th May 2017",The Book of Souls: The Live Chapter,16,2017-11-17,0.218,0.413,0.988,4,-4.388,0,0.207,0.000667,0.000784,0.932,104.934,179973,2017
+"Children of the Damned - Live at Bell Center, Montreal, Canada - 1st April 2016",The Book of Souls: The Live Chapter,16,2017-11-17,0.175,0.188,0.949,4,-6.276,0,0.195,0.000736,0.000794,0.894,91.902,314520,2017
+"Death or Glory - Live at Wroclaw Stadium, Wroclaw, Poland - 3rd July 2016",The Book of Souls: The Live Chapter,15,2017-11-17,0.125,0.303,0.988,11,-4.045,1,0.21,6.51e-05,1.57e-05,0.93,90.152,315707,2017
+"The Red and the Black - Live at Ryogoku Kokugikan, Tokyo, Japan - 21st April 2016",The Book of Souls: The Live Chapter,18,2017-11-17,0.301,0.165,0.955,9,-5.115,0,0.27,1.89e-05,0.0337,0.661,77.244,797373,2017
+"The Trooper - Live at Estadio Jorge Magico Gonzalez, San Salvador, El Salvador - 6th March 2016",The Book of Souls: The Live Chapter,17,2017-11-17,0.148,0.192,0.991,11,-5.115,0,0.226,3.95e-05,0.0265,0.913,177.334,245160,2017
+"Powerslave - Live at Plaza Dell'Unita D'Italia, Trieste, Italy - 26th July 2016",The Book of Souls: The Live Chapter,17,2017-11-17,0.103,0.213,0.985,9,-5.306,1,0.229,0.000177,0.0482,0.683,138.033,451773,2017
+"The Great Unknown - Live at MRA Arena, Newcastle, England - 14th May 2017",The Book of Souls: The Live Chapter,15,2017-11-17,0.0569,0.176,0.944,9,-4.385,0,0.368,0.00263,0.000565,0.876,182.431,410400,2017
+"The Book of Souls - Live at Download Festival, Donington, England - 12th June 2016",The Book of Souls: The Live Chapter,17,2017-11-17,0.221,0.185,0.96,0,-5.046,1,0.127,0.000132,0.000332,0.717,81.908,649613,2017
+"Fear of the Dark - Live at Arena Castelao, Fortaleza, Brazil - 24th March 2016",The Book of Souls: The Live Chapter,16,2017-11-17,0.0954,0.262,0.969,2,-4.931,0,0.156,0.00142,0.000933,0.439,122.516,454253,2017
+"Iron Maiden - Live at Estadio Velez Sarsfield, Buenos Aires, Argentina - 15th March 2016",The Book of Souls: The Live Chapter,13,2017-11-17,0.0719,0.106,0.991,9,-4.649,0,0.305,0.000927,0.000114,0.961,181.876,365293,2017
+"The Number of the Beast - Live at Open Air Festival, Wacken, Germany - 4th August 2016",The Book of Souls: The Live Chapter,15,2017-11-17,0.223,0.243,0.984,0,-4.46,1,0.166,0.000763,0.0187,0.89,97.272,306213,2017
+"Blood Brothers - Live at Download Festival, Donington, England - 12th June 2016",The Book of Souls: The Live Chapter,14,2017-11-17,0.32,0.178,0.902,4,-5.698,0,0.147,0.00468,2.18e-06,0.823,184.808,455080,2017
+"Wasted Years - Live at HSBC Arena, Rio De Janeiro, Brazil - 17th March 2016",The Book of Souls: The Live Chapter,16,2017-11-17,0.088,0.193,0.994,9,-3.51,1,0.17,0.000217,4.15e-05,0.921,158.832,338547,2017
+If Eternity Should Fail,The Book of Souls,46,2015-09-04,0.149,0.291,0.868,7,-6.499,1,0.0611,0.00679,0.000413,0.118,117.931,508207,2015
+Speed of Light,The Book of Souls,52,2015-09-04,0.334,0.176,0.974,7,-5.778,0,0.132,0.000419,2.62e-05,0.107,185.491,301746,2015
+The Great Unknown,The Book of Souls,40,2015-09-04,0.0702,0.211,0.897,2,-6.629,1,0.201,0.0195,0.000189,0.108,92.082,397656,2015
+The Red and the Black,The Book of Souls,49,2015-09-04,0.377,0.275,0.932,4,-5.54,0,0.0865,0.00176,0.109,0.116,114.008,813713,2015
+When the River Runs Deep,The Book of Souls,38,2015-09-04,0.393,0.271,0.947,9,-5.424,1,0.0749,0.00252,3.21e-05,0.119,128.747,352882,2015
+The Book of Souls,The Book of Souls,43,2015-09-04,0.359,0.198,0.935,4,-5.505,0,0.0968,0.00383,8.16e-05,0.102,80.875,627627,2015
+Death or Glory,The Book of Souls,41,2015-09-04,0.316,0.181,0.974,9,-5.493,1,0.162,0.000365,3.47e-05,0.364,176.088,312867,2015
+Shadows of the Valley,The Book of Souls,38,2015-09-04,0.284,0.231,0.977,4,-4.918,0,0.11,0.00174,3.84e-05,0.111,149.675,452479,2015
+Tears of a Clown,The Book of Souls,42,2015-09-04,0.503,0.311,0.874,9,-5.327,0,0.0449,0.00696,1.17e-05,0.0861,95.194,298887,2015
+The Man of Sorrows,The Book of Souls,38,2015-09-04,0.291,0.441,0.78,2,-5.488,0,0.0418,0.0242,6.34e-05,0.23,110.18,387543,2015
+Empire of the Clouds,The Book of Souls,46,2015-09-04,0.19,0.249,0.789,4,-6.15,0,0.0496,0.0165,0.00239,0.104,76.293,1081316,2015
+If Eternity Should Fail,The Book of Souls,33,2015-09-04,0.149,0.291,0.868,7,-6.499,1,0.0611,0.00679,0.000413,0.118,117.931,508207,2015
+Speed of Light,The Book of Souls,39,2015-09-04,0.334,0.176,0.974,7,-5.778,0,0.132,0.000419,2.62e-05,0.107,185.491,301746,2015
+The Great Unknown,The Book of Souls,28,2015-09-04,0.0702,0.211,0.897,2,-6.629,1,0.201,0.0195,0.000189,0.108,92.082,397656,2015
+The Red and the Black,The Book of Souls,36,2015-09-04,0.377,0.275,0.932,4,-5.54,0,0.0865,0.00176,0.109,0.116,114.008,813713,2015
+When the River Runs Deep,The Book of Souls,27,2015-09-04,0.393,0.271,0.947,9,-5.424,1,0.0749,0.00252,3.21e-05,0.119,128.747,352882,2015
+The Book of Souls,The Book of Souls,31,2015-09-04,0.359,0.198,0.935,4,-5.505,0,0.0968,0.00383,8.16e-05,0.102,80.875,627627,2015
+Death or Glory,The Book of Souls,29,2015-09-04,0.316,0.181,0.974,9,-5.493,1,0.162,0.000365,3.47e-05,0.364,176.088,312867,2015
+Shadows of the Valley,The Book of Souls,26,2015-09-04,0.284,0.231,0.977,4,-4.918,0,0.11,0.00174,3.84e-05,0.111,149.675,452479,2015
+Tears of a Clown,The Book of Souls,29,2015-09-04,0.503,0.311,0.874,9,-5.327,0,0.0449,0.00696,1.17e-05,0.0861,95.194,298887,2015
+The Man of Sorrows,The Book of Souls,26,2015-09-04,0.291,0.441,0.78,2,-5.488,0,0.0418,0.0242,6.34e-05,0.23,110.18,387543,2015
+Empire of the Clouds,The Book of Souls,31,2015-09-04,0.19,0.249,0.789,4,-6.15,0,0.0496,0.0165,0.00239,0.104,76.293,1081316,2015
+"Moonchild - Live at Birmingham NEC, 1988; 2013 Remaster",Maiden England '88 (2013 Remaster),30,2013-03-25,0.154,0.235,0.988,9,-3.687,1,0.274,0.0638,0.00119,0.956,130.002,383027,2013
+"The Evil That Men Do - Live at Birmingham NEC, 1988; 2013 Remaster",Maiden England '88 (2013 Remaster),31,2013-03-25,0.166,0.24,0.994,4,-2.514,0,0.125,0.0529,1.14e-05,0.936,87.387,257787,2013
+"The Prisoner - Live at Birmingham NEC, 1988; 2013 Remaster",Maiden England '88 (2013 Remaster),30,2013-03-25,0.298,0.338,0.991,9,-3.332,1,0.0979,0.0985,0.00191,0.978,107.825,359720,2013
+"Still Life - Live at Birmingham NEC, 1988; 2013 Remaster",Maiden England '88 (2013 Remaster),28,2013-03-25,0.172,0.213,0.982,9,-3.813,0,0.418,0.225,0.000166,0.953,84.688,271987,2013
+"Die with Your Boots On - Live Birmingham NEC, 1988; 2013 Remaster",Maiden England '88 (2013 Remaster),28,2013-03-25,0.202,0.278,0.996,4,-2.984,0,0.199,0.117,0.0,0.941,93.077,318920,2013
+"Infinite Dreams - Live at Birmingham NEC, 1988; 2013 Remaster",Maiden England '88 (2013 Remaster),30,2013-03-25,0.381,0.199,0.99,4,-3.345,0,0.14,0.146,0.000416,0.894,84.136,352987,2013
+"Killers - Live at Birmingham NEC, 1988; 2013 Remaster",Maiden England '88 (2013 Remaster),29,2013-03-25,0.175,0.18,0.995,4,-3.083,0,0.274,0.0965,0.00167,0.925,179.475,296813,2013
+Can I Play with Madness - Live at Birmingham NEC; 1988; 2013 Remaster,Maiden England '88 (2013 Remaster),29,2013-03-25,0.344,0.267,0.992,7,-3.223,1,0.241,0.212,3.12e-06,0.656,145.357,205200,2013
+"Heaven Can Wait - Live at Birmingham NEC, 1988; 2013 Remaster",Maiden England '88 (2013 Remaster),27,2013-03-25,0.185,0.261,0.995,7,-4.061,1,0.143,0.138,0.000837,0.724,106.67,462547,2013
+"Wasted Years - Live at Birmingham NEC, 1988; 2013 Remaster",Maiden England '88 (2013 Remaster),30,2013-03-25,0.201,0.158,0.985,9,-3.308,1,0.116,0.0394,1.42e-06,0.919,83.296,305760,2013
+"The Clairvoyant - Live at Birmingham NEC, 1988; 2013 Remaster",Maiden England '88 (2013 Remaster),27,2013-03-25,0.369,0.259,0.992,7,-3.138,1,0.122,0.216,6.37e-05,0.956,103.278,269960,2013
+"Seventh Son of a Seventh Son - Live at Birmingham NEC, 1988; 2013 Remaster",Maiden England '88 (2013 Remaster),30,2013-03-25,0.0972,0.24,0.949,4,-4.568,0,0.0746,0.0942,0.292,0.78,113.32,608480,2013
+"The Number of the Beast - Live at Birmingham NEC, 1988; 2013 Remaster",Maiden England '88 (2013 Remaster),27,2013-03-25,0.235,0.237,0.99,7,-3.677,1,0.137,0.0989,9.02e-05,0.965,102.661,287173,2013
+"Hallowed Be Thy Name - Live at Birmingham NEC, 1988; 2013 Remaster",Maiden England '88 (2013 Remaster),28,2013-03-25,0.195,0.26,0.989,4,-3.461,0,0.144,0.113,0.00357,0.73,117.638,441627,2013
+"Iron Maiden - Live at Birmingham NEC, 1988; 2013 Remaster",Maiden England '88 (2013 Remaster),25,2013-03-25,0.142,0.164,0.992,7,-4.178,1,0.154,0.2,0.000149,0.955,91.18,311547,2013
+"Run to the Hills - Live at Birmingham NEC, 1988; 2013 Remaster",Maiden England '88 (2013 Remaster),29,2013-03-25,0.213,0.147,0.993,5,-2.491,1,0.173,0.0401,4.21e-05,0.663,175.018,241720,2013
+"Running Free - Live at Birmingham NEC, 1988; 2013 Remaster",Maiden England '88 (2013 Remaster),25,2013-03-25,0.203,0.338,0.994,4,-3.02,0,0.212,0.048,0.000868,0.643,101.83,333867,2013
+"Sanctuary - Live at Birmingham NEC, 1988; 2013 Remaster",Maiden England '88 (2013 Remaster),31,2013-03-25,0.107,0.223,0.997,7,-2.908,1,0.189,0.139,0.0713,0.949,136.085,324933,2013
+"Satellite 15 - Live At Estadio Nacional, Santiago",En Vivo!,29,2012-03-26,0.163,0.188,0.799,4,-12.334,1,0.0694,0.00806,0.798,0.917,119.446,276133,2012
+"The Final Frontier - Live At Estadio Nacional, Santiago",En Vivo!,33,2012-03-26,0.507,0.311,0.961,4,-6.496,0,0.0688,0.00184,0.0,0.836,137.485,250013,2012
+"El Dorado - Live At Estadio Nacional, Santiago",En Vivo!,31,2012-03-26,0.349,0.25,0.951,9,-6.561,1,0.118,0.000139,2.94e-05,0.887,85.006,352533,2012
+"2 Minutes to Midnight - Live At Estadio Nacional, Santiago",En Vivo!,33,2012-03-26,0.196,0.174,0.985,9,-5.964,0,0.128,0.00233,2.96e-06,0.969,97.633,350520,2012
+"The Talisman - Live At Estadio Nacional, Santiago",En Vivo!,32,2012-03-26,0.171,0.156,0.934,2,-6.108,0,0.145,0.000932,0.0,0.703,75.223,525533,2012
+"Coming Home - Live At Estadio Nacional, Santiago",En Vivo!,31,2012-03-26,0.41,0.286,0.932,0,-6.248,1,0.0664,0.000671,0.000203,0.928,81.258,357440,2012
+"Dance of Death - Live At Estadio Nacional, Santiago",En Vivo!,36,2012-03-26,0.199,0.245,0.835,4,-7.28,0,0.0676,0.00801,0.00607,0.94,134.756,543387,2012
+"The Trooper - Live At Estadio Nacional, Santiago",En Vivo!,38,2012-03-26,0.35,0.258,0.98,4,-5.945,0,0.124,8.45e-05,0.00365,0.826,86.798,239413,2012
+"The Wicker Man - Live At Estadio Nacional, Santiago",En Vivo!,32,2012-03-26,0.152,0.201,0.975,4,-6.619,0,0.107,0.000483,8.44e-05,0.387,102.054,306573,2012
+"Blood Brothers - Live At Estadio Nacional, Santiago",En Vivo!,33,2012-03-26,0.353,0.161,0.892,4,-6.836,0,0.0684,0.00196,0.0214,0.741,64.059,424387,2012
+"When the Wild Wind Blows - Live At Estadio Nacional, Santiago",En Vivo!,33,2012-03-26,0.337,0.276,0.862,4,-7.631,0,0.0564,0.0021,0.00453,0.965,107.566,637307,2012
+"The Evil That Men Do - Live At Estadio Nacional, Santiago",En Vivo!,32,2012-03-26,0.196,0.172,0.965,4,-6.622,0,0.161,0.000478,0.000319,0.593,89.439,257320,2012
+"Fear of the Dark - Live At Estadio Nacional, Santiago",En Vivo!,38,2012-03-26,0.14,0.129,0.94,2,-7.333,0,0.304,0.00188,0.00394,0.855,192.449,450320,2012
+"Iron Maiden - Live At Estadio Nacional, Santiago",En Vivo!,29,2012-03-26,0.259,0.165,0.978,7,-7.282,1,0.144,0.00136,0.00139,0.987,94.282,308280,2012
+"The Number of the Beast - Live At Estadio Nacional, Santiago",En Vivo!,37,2012-03-26,0.373,0.294,0.938,7,-7.556,1,0.108,0.00096,0.00154,0.959,97.865,297813,2012
+"Hallowed Be Thy Name - Live At Estadio Nacional, Santiago",En Vivo!,33,2012-03-26,0.178,0.288,0.937,4,-7.141,0,0.0777,0.000346,0.0554,0.597,115.61,448907,2012
+"Running Free - Live At Estadio Nacional, Santiago",En Vivo!,29,2012-03-26,0.199,0.309,0.939,0,-8.328,1,0.13,0.00254,0.0861,0.805,94.033,477760,2012
+"Satellite 15 - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",14,2012-03-23,0.163,0.188,0.799,4,-12.334,1,0.0694,0.00806,0.798,0.917,119.446,276133,2012
+"The Final Frontier - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",17,2012-03-23,0.507,0.311,0.961,4,-6.496,0,0.0688,0.00184,0.0,0.836,137.485,250013,2012
+"El Dorado - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",16,2012-03-23,0.349,0.25,0.951,9,-6.561,1,0.118,0.000139,2.94e-05,0.887,85.006,352533,2012
+"2 Minutes to Midnight - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",19,2012-03-23,0.196,0.174,0.985,9,-5.964,0,0.128,0.00233,2.96e-06,0.969,97.633,350520,2012
+"The Talisman - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",17,2012-03-23,0.171,0.156,0.934,2,-6.108,0,0.145,0.000932,0.0,0.703,75.223,525533,2012
+"Coming Home - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",15,2012-03-23,0.41,0.286,0.932,0,-6.248,1,0.0664,0.000671,0.000203,0.928,81.258,357440,2012
+"Dance of Death - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",19,2012-03-23,0.199,0.245,0.835,4,-7.28,0,0.0676,0.00801,0.00607,0.94,134.756,543387,2012
+"The Trooper - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",25,2012-03-23,0.35,0.258,0.98,4,-5.945,0,0.124,8.45e-05,0.00365,0.826,86.798,239413,2012
+"The Wicker Man - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",17,2012-03-23,0.152,0.201,0.975,4,-6.619,0,0.107,0.000483,8.44e-05,0.387,102.054,306573,2012
+"Blood Brothers - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",16,2012-03-23,0.353,0.161,0.892,4,-6.836,0,0.0684,0.00196,0.0214,0.741,64.059,424387,2012
+"When the Wild Wind Blows - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",17,2012-03-23,0.337,0.276,0.862,4,-7.631,0,0.0564,0.0021,0.00453,0.965,107.566,637307,2012
+"The Evil That Men Do - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",16,2012-03-23,0.196,0.172,0.965,4,-6.622,0,0.161,0.000478,0.000319,0.593,89.439,257320,2012
+"Fear of the Dark - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",22,2012-03-23,0.14,0.129,0.94,2,-7.333,0,0.304,0.00188,0.00394,0.855,192.449,450320,2012
+"Iron Maiden - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",13,2012-03-23,0.259,0.165,0.978,7,-7.282,1,0.144,0.00136,0.00139,0.987,94.282,308280,2012
+"The Number of the Beast - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",22,2012-03-23,0.373,0.294,0.938,7,-7.556,1,0.108,0.00096,0.00154,0.959,97.865,297813,2012
+"Hallowed Be Thy Name - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",19,2012-03-23,0.178,0.288,0.937,4,-7.141,0,0.0777,0.000346,0.0554,0.597,115.61,448907,2012
+"Running Free - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",13,2012-03-23,0.199,0.309,0.939,0,-8.328,1,0.13,0.00254,0.0861,0.805,94.033,477760,2012
+"Satellite 15 - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",0,2012-03-23,0.168,0.113,0.785,4,-12.345,1,0.0661,0.00835,0.785,0.933,160.409,276133,2012
+"The Final Frontier - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",0,2012-03-23,0.494,0.317,0.959,4,-6.568,0,0.0747,0.00191,0.0,0.858,137.569,250013,2012
+"El Dorado - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",0,2012-03-23,0.344,0.229,0.949,9,-6.553,1,0.12,0.000134,5.91e-05,0.892,83.694,352533,2012
+"2 Minutes to Midnight - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",1,2012-03-23,0.191,0.179,0.986,9,-5.947,0,0.132,0.00229,2.99e-06,0.97,98.328,350520,2012
+"The Talisman - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",0,2012-03-23,0.152,0.166,0.928,2,-6.158,0,0.125,0.000879,1.71e-06,0.703,175.008,525533,2012
+"Coming Home - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",0,2012-03-23,0.374,0.291,0.932,0,-6.228,1,0.071,0.000803,0.000101,0.93,80.743,357440,2012
+"Dance of Death - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",1,2012-03-23,0.189,0.221,0.837,4,-7.315,0,0.0775,0.00736,0.00342,0.939,145.96,543387,2012
+"The Trooper - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",1,2012-03-23,0.327,0.299,0.979,9,-5.916,0,0.124,8.4e-05,0.00484,0.914,87.352,239413,2012
+"The Wicker Man - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",0,2012-03-23,0.157,0.206,0.975,4,-6.619,0,0.104,0.000387,0.000104,0.356,102.534,306560,2012
+"Blood Brothers - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",0,2012-03-23,0.363,0.197,0.892,4,-6.808,0,0.0529,0.00207,0.0164,0.78,90.621,424387,2012
+"When the Wild Wind Blows - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",1,2012-03-23,0.338,0.278,0.856,4,-7.638,0,0.0533,0.00211,0.00336,0.964,107.93,637307,2012
+"The Evil That Men Do - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",0,2012-03-23,0.225,0.169,0.964,4,-6.617,0,0.149,0.00045,0.000374,0.629,87.773,257320,2012
+"Fear of the Dark - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",0,2012-03-23,0.139,0.191,0.938,2,-7.371,0,0.127,0.00229,0.00375,0.834,97.796,450320,2012
+"Iron Maiden - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",0,2012-03-23,0.231,0.22,0.979,7,-7.274,1,0.174,0.00104,0.00049,0.987,115.595,308280,2012
+"The Number of the Beast - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",0,2012-03-23,0.359,0.281,0.939,7,-7.62,1,0.11,0.00128,0.0027,0.958,99.366,297813,2012
+"Hallowed Be Thy Name - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",0,2012-03-23,0.201,0.28,0.941,4,-7.162,0,0.0759,0.00026,0.0567,0.607,115.608,448907,2012
+"Running Free - Live At Estadio Nacional, Santiago","En Vivo! (Live at Estadio Nacional, Santiago)",0,2012-03-23,0.198,0.302,0.936,0,-8.323,1,0.121,0.00261,0.0826,0.824,92.809,477747,2012
+Satellite 15.....The Final Frontier - 2015 Remaster,The Final Frontier (2015 - Remaster),28,2010-08-16,0.411,0.263,0.882,9,-5.871,1,0.0681,0.000654,0.00111,0.113,133.801,520293,2010
+El Dorado - 2015 Remaster,The Final Frontier (2015 - Remaster),30,2010-08-16,0.504,0.263,0.922,9,-6.189,1,0.0982,2.93e-05,0.00132,0.154,154.976,408853,2010
+Mother of Mercy - 2015 Remaster,The Final Frontier (2015 - Remaster),26,2010-08-16,0.37,0.306,0.912,2,-5.795,1,0.0712,0.00294,3.03e-05,0.0592,105.925,320040,2010
+Coming Home - 2015 Remaster,The Final Frontier (2015 - Remaster),32,2010-08-16,0.5,0.324,0.914,4,-5.373,0,0.0543,0.000123,4.86e-05,0.252,80.766,352453,2010
+The Alchemist - 2015 Remaster,The Final Frontier (2015 - Remaster),26,2010-08-16,0.545,0.313,0.966,7,-4.902,1,0.0688,0.000109,0.0,0.116,123.937,268907,2010
+Isle of Avalon - 2015 Remaster,The Final Frontier (2015 - Remaster),25,2010-08-16,0.065,0.295,0.93,9,-5.681,1,0.0553,0.0104,0.0018,0.174,150.602,546160,2010
+Starblind - 2015 Remaster,The Final Frontier (2015 - Remaster),25,2010-08-16,0.198,0.183,0.881,4,-6.52,0,0.064,0.00404,0.000745,0.0925,76.914,468320,2010
+The Talisman - 2015 Remaster,The Final Frontier (2015 - Remaster),26,2010-08-16,0.153,0.215,0.857,2,-6.229,0,0.0771,0.00176,0.0,0.0826,80.955,543187,2010
+The Man Who Would Be King - 2015 Remaster,The Final Frontier (2015 - Remaster),25,2010-08-16,0.285,0.199,0.848,11,-6.637,0,0.0671,0.00306,0.00497,0.13,174.363,507973,2010
+When the Wild Wind Blows - 2015 Remaster,The Final Frontier (2015 - Remaster),33,2010-08-16,0.246,0.296,0.8,4,-6.723,0,0.0423,0.00322,0.189,0.142,97.593,660760,2010
+Satellite 15,The Final Frontier (Deluxe Edition),0,2010-08-13,0.435,0.265,0.873,9,-6.411,1,0.0682,0.000584,0.00148,0.113,133.376,520947,2010
+El Dorado,The Final Frontier (Deluxe Edition),0,2010-08-13,0.453,0.267,0.918,9,-7.011,1,0.0937,4.57e-05,0.00187,0.0612,154.613,410507,2010
+Mother Of Mercy,The Final Frontier (Deluxe Edition),0,2010-08-13,0.364,0.309,0.9,2,-6.839,1,0.0625,0.00296,0.00012,0.0486,106.055,320133,2010
+Coming Home,The Final Frontier (Deluxe Edition),0,2010-08-13,0.49,0.338,0.892,4,-6.648,0,0.0549,0.000166,7.18e-05,0.199,78.183,354040,2010
+The Alchemist,The Final Frontier (Deluxe Edition),0,2010-08-13,0.64,0.341,0.955,2,-6.104,1,0.0654,0.000166,1.92e-05,0.345,124.023,268987,2010
+Isle Of Avalon,The Final Frontier (Deluxe Edition),0,2010-08-13,0.0739,0.291,0.902,9,-7.217,1,0.0499,0.0103,0.00471,0.145,151.904,546027,2010
+Starblind,The Final Frontier (Deluxe Edition),0,2010-08-13,0.217,0.197,0.871,0,-6.788,1,0.0548,0.00476,0.00283,0.0875,81.904,468360,2010
+The Talisman,The Final Frontier (Deluxe Edition),0,2010-08-13,0.16,0.216,0.834,2,-7.307,0,0.0763,0.00189,6.49e-06,0.0738,81.197,543107,2010
+The Man Who Would Be King,The Final Frontier (Deluxe Edition),0,2010-08-13,0.273,0.212,0.828,11,-7.453,0,0.0559,0.00288,0.0228,0.12,86.628,508173,2010
+When The Wild Wind Blows,The Final Frontier (Deluxe Edition),0,2010-08-13,0.217,0.303,0.753,4,-8.498,0,0.0449,0.00432,0.353,0.246,96.97,661680,2010
+Satellite 15,The Final Frontier,8,2010-08-13,0.435,0.265,0.873,9,-6.411,1,0.0682,0.000584,0.00148,0.113,133.376,520947,2010
+El Dorado,The Final Frontier,8,2010-08-13,0.436,0.265,0.92,11,-7.012,1,0.0965,4.59e-05,0.00305,0.117,155.14,408787,2010
+Mother Of Mercy,The Final Frontier,6,2010-08-13,0.364,0.309,0.9,2,-6.839,1,0.0625,0.00296,0.00012,0.0486,106.055,320133,2010
+Coming Home,The Final Frontier,14,2010-08-13,0.467,0.332,0.887,4,-6.655,0,0.0537,0.00018,5.79e-05,0.278,79.761,352440,2010
+The Alchemist,The Final Frontier,6,2010-08-13,0.64,0.341,0.955,2,-6.104,1,0.0654,0.000166,1.92e-05,0.345,124.023,268987,2010
+Isle Of Avalon,The Final Frontier,5,2010-08-13,0.0739,0.291,0.902,9,-7.217,1,0.0499,0.0103,0.00471,0.145,151.904,546027,2010
+Starblind,The Final Frontier,5,2010-08-13,0.217,0.197,0.871,0,-6.788,1,0.0548,0.00476,0.00283,0.0875,81.904,468360,2010
+The Talisman,The Final Frontier,7,2010-08-13,0.16,0.216,0.834,2,-7.307,0,0.0763,0.00189,6.49e-06,0.0738,81.197,543107,2010
+The Man Who Would Be King,The Final Frontier,6,2010-08-13,0.273,0.212,0.828,11,-7.453,0,0.0559,0.00288,0.0228,0.12,86.628,508173,2010
+When The Wild Wind Blows,The Final Frontier,10,2010-08-13,0.228,0.305,0.759,4,-8.52,0,0.0462,0.00392,0.398,0.31,96.889,661760,2010
+Satellite 15.....The Final Frontier - 2015 Remaster,The Final Frontier (2015 Remaster),39,2010-01-01,0.411,0.263,0.882,9,-5.871,1,0.0681,0.000654,0.00111,0.113,133.801,520293,2010
+El Dorado - 2015 Remaster,The Final Frontier (2015 Remaster),40,2010-01-01,0.504,0.263,0.922,9,-6.189,1,0.0982,2.93e-05,0.00132,0.154,154.976,408853,2010
+Mother of Mercy - 2015 Remaster,The Final Frontier (2015 Remaster),37,2010-01-01,0.37,0.306,0.912,2,-5.795,1,0.0712,0.00294,3.03e-05,0.0592,105.925,320040,2010
+Coming Home - 2015 Remaster,The Final Frontier (2015 Remaster),44,2010-01-01,0.5,0.324,0.914,4,-5.373,0,0.0543,0.000123,4.86e-05,0.252,80.766,352453,2010
+The Alchemist - 2015 Remaster,The Final Frontier (2015 Remaster),37,2010-01-01,0.545,0.313,0.966,7,-4.902,1,0.0688,0.000109,0.0,0.116,123.937,268907,2010
+Isle of Avalon - 2015 Remaster,The Final Frontier (2015 Remaster),35,2010-01-01,0.065,0.295,0.93,9,-5.681,1,0.0553,0.0104,0.0018,0.174,150.602,546160,2010
+Starblind - 2015 Remaster,The Final Frontier (2015 Remaster),36,2010-01-01,0.198,0.183,0.881,4,-6.52,0,0.064,0.00404,0.000745,0.0925,76.914,468320,2010
+The Talisman - 2015 Remaster,The Final Frontier (2015 Remaster),38,2010-01-01,0.153,0.215,0.857,2,-6.229,0,0.0771,0.00176,0.0,0.0826,80.955,543187,2010
+The Man Who Would Be King - 2015 Remaster,The Final Frontier (2015 Remaster),36,2010-01-01,0.285,0.199,0.848,11,-6.637,0,0.0671,0.00306,0.00497,0.13,174.363,507973,2010
+When the Wild Wind Blows - 2015 Remaster,The Final Frontier (2015 Remaster),47,2010-01-01,0.246,0.296,0.8,4,-6.723,0,0.0423,0.00322,0.189,0.142,97.593,660760,2010
+Churchill's Speech - Live in Mumbai 01 February 2008,Flight 666: The Original Soundtrack (Live),19,2009-06-09,0.105,0.296,0.818,4,-8.803,0,0.126,0.691,0.896,0.965,112.503,43867,2009
+Aces High - Live in Mumbai 01 February 2008,Flight 666: The Original Soundtrack (Live),23,2009-06-09,0.257,0.239,0.991,2,-4.74,1,0.153,0.000191,0.000413,0.915,128.371,289667,2009
+2 Minutes to Midnight - Live in Melbourne 07 February 2008,Flight 666: The Original Soundtrack (Live),20,2009-06-09,0.184,0.195,0.989,9,-5.08,1,0.251,5.95e-05,0.00145,0.865,97.666,357800,2009
+Revelations - Live in Sydney 09 February 2008,Flight 666: The Original Soundtrack (Live),20,2009-06-09,0.342,0.213,0.971,0,-5.912,1,0.154,0.000749,7.58e-06,0.966,95.245,388520,2009
+The Trooper - Live in Tokyo 16 February 2008,Flight 666: The Original Soundtrack (Live),21,2009-06-09,0.35,0.315,0.981,11,-6.152,0,0.151,0.000353,0.000989,0.851,90.942,241613,2009
+Wasted Years - Live in Monterrey 22 February 2008,Flight 666: The Original Soundtrack (Live),21,2009-06-09,0.258,0.152,0.963,4,-5.696,0,0.117,0.000194,0.00104,0.975,163.302,307467,2009
+The Number of the Beast - Live in Los Angeles 19 February 2008,Flight 666: The Original Soundtrack (Live),19,2009-06-09,0.246,0.335,0.983,7,-6.244,1,0.183,0.00449,0.000741,0.968,99.028,307400,2009
+Can I Play With Madness - Live in Mexico City 24 February 2008,Flight 666: The Original Soundtrack (Live),18,2009-06-09,0.481,0.199,0.958,2,-6.179,1,0.129,0.00262,0.000224,0.766,144.793,216573,2009
+Rime of the Ancient Mariner - Live in New Jersey 14 March 2008,Flight 666: The Original Soundtrack (Live),21,2009-06-09,0.132,0.292,0.965,9,-6.224,1,0.157,0.00136,0.00517,0.808,113.968,821547,2009
+Powerslave - Live in San Jose 26 February 2008,Flight 666: The Original Soundtrack (Live),19,2009-06-09,0.166,0.214,0.987,9,-5.874,1,0.194,0.000417,0.00366,0.471,136.51,448347,2009
+Heaven Can Wait - Live in Sao Paulo 02 March 2008,Flight 666: The Original Soundtrack (Live),17,2009-06-09,0.3,0.223,0.98,2,-5.513,1,0.158,0.000825,0.0837,0.942,102.449,455987,2009
+Run to the Hills - Live in Bogota 28 February 2008,Flight 666: The Original Soundtrack (Live),18,2009-06-09,0.329,0.153,0.945,0,-5.621,1,0.143,0.000297,1.31e-05,0.971,174.242,239267,2009
+Fear of the Dark - Live in Buenos Aires 7 March 2008,Flight 666: The Original Soundtrack (Live),22,2009-06-09,0.131,0.199,0.951,2,-6.277,0,0.238,0.000907,0.0893,0.954,98.335,452293,2009
+Iron Maiden - Live in Santiago 9 March 2008,Flight 666: The Original Soundtrack (Live),15,2009-06-09,0.229,0.188,0.973,2,-6.475,1,0.137,0.00151,0.000517,0.713,104.32,326240,2009
+Moonchild - Live in San Juan 12 March 2008,Flight 666: The Original Soundtrack (Live),16,2009-06-09,0.261,0.234,0.95,4,-6.526,0,0.112,0.00424,0.00366,0.954,126.37,449600,2009
+The Clairvoyant - Live in Curitiba 4 March 2008,Flight 666: The Original Soundtrack (Live),16,2009-06-09,0.485,0.262,0.925,7,-6.247,1,0.0883,0.000608,0.00713,0.964,101.709,278800,2009
+Hallowed Be Thy Name - Live in Toronto 16 March 2008,Flight 666: The Original Soundtrack (Live),20,2009-06-09,0.158,0.23,0.919,9,-6.827,1,0.111,0.000291,0.0298,0.923,119.525,472800,2009
+Churchill's Speech - Live in Mumbai 01 February 2008,Flight 666: The Original Soundtrack,31,2009-05-25,0.105,0.296,0.818,4,-8.803,0,0.126,0.691,0.896,0.965,112.503,43867,2009
+Aces High - Live in Mumbai 01 February 2008,Flight 666: The Original Soundtrack,37,2009-05-25,0.257,0.239,0.991,2,-4.74,1,0.153,0.000191,0.000413,0.915,128.371,289667,2009
+2 Minutes to Midnight - Live in Melbourne 07 February 2008,Flight 666: The Original Soundtrack,33,2009-05-25,0.184,0.195,0.989,9,-5.08,1,0.251,5.95e-05,0.00145,0.865,97.666,357800,2009
+Revelations - Live in Sydney 09 February 2008,Flight 666: The Original Soundtrack,33,2009-05-25,0.342,0.213,0.971,0,-5.912,1,0.154,0.000749,7.58e-06,0.966,95.245,388520,2009
+The Trooper - Live in Tokyo 16 February 2008,Flight 666: The Original Soundtrack,33,2009-05-25,0.35,0.315,0.981,11,-6.152,0,0.151,0.000353,0.000989,0.851,90.942,241613,2009
+Wasted Years - Live in Monterrey 22 February 2008,Flight 666: The Original Soundtrack,35,2009-05-25,0.258,0.152,0.963,4,-5.696,0,0.117,0.000194,0.00104,0.975,163.302,307467,2009
+The Number of the Beast - Live in Los Angeles 19 February 2008,Flight 666: The Original Soundtrack,32,2009-05-25,0.246,0.335,0.983,7,-6.244,1,0.183,0.00449,0.000741,0.968,99.028,307400,2009
+Can I Play With Madness - Live in Mexico City 24 February 2008,Flight 666: The Original Soundtrack,31,2009-05-25,0.481,0.199,0.958,2,-6.179,1,0.129,0.00262,0.000224,0.766,144.793,216573,2009
+Rime of the Ancient Mariner - Live in New Jersey 14 March 2008,Flight 666: The Original Soundtrack,35,2009-05-25,0.132,0.292,0.965,9,-6.224,1,0.157,0.00136,0.00517,0.808,113.968,821547,2009
+Powerslave - Live in San Jose 26 February 2008,Flight 666: The Original Soundtrack,32,2009-05-25,0.166,0.214,0.987,9,-5.874,1,0.194,0.000417,0.00366,0.471,136.51,448347,2009
+Heaven Can Wait - Live in Sao Paulo 02 March 2008,Flight 666: The Original Soundtrack,29,2009-05-25,0.3,0.223,0.98,2,-5.513,1,0.158,0.000825,0.0837,0.942,102.449,455987,2009
+Run to the Hills - Live in Bogota 28 February 2008,Flight 666: The Original Soundtrack,31,2009-05-25,0.329,0.153,0.945,0,-5.621,1,0.143,0.000297,1.31e-05,0.971,174.242,239267,2009
+Fear of the Dark - Live in Buenos Aires 7 March 2008,Flight 666: The Original Soundtrack,38,2009-05-25,0.131,0.199,0.951,2,-6.277,0,0.238,0.000907,0.0893,0.954,98.335,452293,2009
+Iron Maiden - Live in Santiago 9 March 2008,Flight 666: The Original Soundtrack,28,2009-05-25,0.229,0.188,0.973,2,-6.475,1,0.137,0.00151,0.000517,0.713,104.32,326240,2009
+Moonchild - Live in San Juan 12 March 2008,Flight 666: The Original Soundtrack,29,2009-05-25,0.261,0.234,0.95,4,-6.526,0,0.112,0.00424,0.00366,0.954,126.37,449600,2009
+The Clairvoyant - Live in Curitiba 4 March 2008,Flight 666: The Original Soundtrack,28,2009-05-25,0.485,0.262,0.925,7,-6.247,1,0.0883,0.000608,0.00713,0.964,101.709,278800,2009
+Hallowed Be Thy Name - Live in Toronto 16 March 2008,Flight 666: The Original Soundtrack,32,2009-05-25,0.158,0.23,0.919,9,-6.827,1,0.111,0.000291,0.0298,0.923,119.525,472800,2009
+Different World - 2015 Remaster,A Matter of Life and Death (2015 Remaster),45,2006-08-28,0.602,0.406,0.975,4,-4.285,0,0.0937,0.000325,0.00018,0.613,91.826,258187,2006
+These Colours Don't Run - 2015 Remaster,A Matter of Life and Death (2015 Remaster),43,2006-08-28,0.228,0.317,0.94,4,-5.33,0,0.114,0.00573,0.0033,0.112,103.396,412213,2006
+Brighter Than a Thousand Suns - 2015 Remaster,A Matter of Life and Death (2015 Remaster),40,2006-08-28,0.266,0.294,0.949,0,-5.655,1,0.0851,0.00161,2.79e-05,0.101,125.892,526107,2006
+The Pilgrim - 2015 Remaster,A Matter of Life and Death (2015 Remaster),39,2006-08-28,0.541,0.308,0.934,9,-4.145,0,0.0606,0.000306,0.0313,0.0863,97.848,307867,2006
+The Longest Day - 2015 Remaster,A Matter of Life and Death (2015 Remaster),41,2006-08-28,0.337,0.259,0.925,4,-5.706,0,0.0713,0.00133,0.00289,0.128,101.244,468093,2006
+Out of the Shadows - 2015 Remaster,A Matter of Life and Death (2015 Remaster),37,2006-08-28,0.288,0.213,0.839,4,-5.109,0,0.0406,0.00285,0.00195,0.279,81.402,336640,2006
+The Reincarnation of Benjamin Breeg - 2015 Remaster,A Matter of Life and Death (2015 Remaster),44,2006-08-28,0.144,0.353,0.837,4,-5.551,0,0.0356,0.00268,0.000533,0.11,110.999,442053,2006
+For the Greater Good of God - 2015 Remaster,A Matter of Life and Death (2015 Remaster),50,2006-08-28,0.3,0.316,0.908,4,-5.455,0,0.0779,0.00194,0.0578,0.111,107.743,565027,2006
+Lord of Light - 2015 Remaster,A Matter of Life and Death (2015 Remaster),37,2006-08-28,0.0485,0.281,0.901,4,-6.083,0,0.0739,0.00445,0.0044,0.166,93.542,444653,2006
+The Legacy - 2015 Remaster,A Matter of Life and Death (2015 Remaster),38,2006-08-28,0.15,0.328,0.928,2,-5.839,0,0.131,0.0471,0.000681,0.179,148.276,562947,2006
+Different World - 2015 Remaster,A Matter of Life and Death (2015 - Remaster),33,2006-08-28,0.602,0.406,0.975,4,-4.285,0,0.0937,0.000325,0.00018,0.613,91.826,258187,2006
+These Colours Don't Run - 2015 Remaster,A Matter of Life and Death (2015 - Remaster),32,2006-08-28,0.228,0.317,0.94,4,-5.33,0,0.114,0.00573,0.0033,0.112,103.396,412213,2006
+Brighter Than a Thousand Suns - 2015 Remaster,A Matter of Life and Death (2015 - Remaster),28,2006-08-28,0.266,0.294,0.949,0,-5.655,1,0.0851,0.00161,2.79e-05,0.101,125.892,526107,2006
+The Pilgrim - 2015 Remaster,A Matter of Life and Death (2015 - Remaster),26,2006-08-28,0.541,0.308,0.934,9,-4.145,0,0.0606,0.000306,0.0313,0.0863,97.848,307867,2006
+The Longest Day - 2015 Remaster,A Matter of Life and Death (2015 - Remaster),29,2006-08-28,0.337,0.259,0.925,4,-5.706,0,0.0713,0.00133,0.00289,0.128,101.244,468093,2006
+Out of the Shadows - 2015 Remaster,A Matter of Life and Death (2015 - Remaster),25,2006-08-28,0.288,0.213,0.839,4,-5.109,0,0.0406,0.00285,0.00195,0.279,81.402,336640,2006
+The Reincarnation of Benjamin Breeg - 2015 Remaster,A Matter of Life and Death (2015 - Remaster),32,2006-08-28,0.144,0.353,0.837,4,-5.551,0,0.0356,0.00268,0.000533,0.11,110.999,442053,2006
+For the Greater Good of God - 2015 Remaster,A Matter of Life and Death (2015 - Remaster),37,2006-08-28,0.3,0.316,0.908,4,-5.455,0,0.0779,0.00194,0.0578,0.111,107.743,565027,2006
+Lord of Light - 2015 Remaster,A Matter of Life and Death (2015 - Remaster),25,2006-08-28,0.0485,0.281,0.901,4,-6.083,0,0.0739,0.00445,0.0044,0.166,93.542,444653,2006
+The Legacy - 2015 Remaster,A Matter of Life and Death (2015 - Remaster),26,2006-08-28,0.15,0.328,0.928,2,-5.839,0,0.131,0.0471,0.000681,0.179,148.276,562947,2006
+Wildest Dreams - Live In Dortmund,Death on the Road,27,2005-08-29,0.0851,0.204,0.964,0,-4.605,1,0.115,0.0041,0.00074,0.959,106.817,291760,2005
+Wrathchild - Live In Dortmund,Death on the Road,26,2005-08-29,0.122,0.307,0.995,9,-3.737,1,0.15,0.000176,0.0168,0.422,109.405,169333,2005
+Can I Play With Madness - Live In Dortmund,Death on the Road,26,2005-08-29,0.0934,0.209,0.99,2,-3.893,1,0.264,0.00209,1.39e-05,0.979,100.709,210307,2005
+The Trooper - Live 2003,Death on the Road,27,2005-08-29,0.266,0.289,0.98,0,-5.389,1,0.133,6.41e-05,0.00348,0.971,87.479,252160,2005
+Dance Of Death - Live In Dortmund,Death on the Road,31,2005-08-29,0.152,0.252,0.896,4,-6.007,0,0.121,0.00371,0.000337,0.959,135.718,563400,2005
+Rainmaker - Live In Dortmund,Death on the Road,28,2005-08-29,0.236,0.292,0.987,5,-4.169,1,0.179,0.000548,5.61e-06,0.98,91.519,241507,2005
+Brave New World - Live In Dortmund,Death on the Road,27,2005-08-29,0.158,0.266,0.914,2,-5.054,0,0.111,0.00041,0.000106,0.935,119.582,369760,2005
+Paschendale - Live In Dortmund,Death on the Road,28,2005-08-29,0.16,0.258,0.941,4,-5.733,0,0.132,0.00742,6.83e-05,0.965,92.041,617507,2005
+Lord Of The Flies - Live In Dortmund,Death on the Road,29,2005-08-29,0.142,0.258,0.977,9,-5.42,1,0.111,0.000106,0.00917,0.983,91.916,304227,2005
+No More Lies - Live In Dortmund,Death on the Road,29,2005-08-29,0.11,0.209,0.889,9,-6.377,0,0.0783,0.00204,0.00144,0.977,94.584,469533,2005
+Hallowed Be Thy Name - Live In Dortmund,Death on the Road,26,2005-08-29,0.0895,0.251,0.973,9,-4.109,1,0.15,0.000377,0.000282,0.909,117.797,451667,2005
+Fear Of The Dark - Live In Dortmund,Death on the Road,29,2005-08-29,0.0686,0.234,0.951,2,-5.791,0,0.164,0.000422,0.00586,0.466,125.565,448067,2005
+Iron Maiden - Live In Dortmund,Death on the Road,22,2005-08-29,0.0444,0.0751,0.995,9,-5.064,0,0.206,0.00155,0.000243,0.979,189.526,290027,2005
+Journeyman - Live In Dortmund,Death on the Road,29,2005-08-29,0.147,0.168,0.785,0,-7.667,1,0.068,0.193,5.97e-05,0.982,184.227,422667,2005
+The Number Of The Beast - Live In Dortmund,Death on the Road,23,2005-08-29,0.219,0.299,0.973,0,-4.479,1,0.183,0.00247,2.37e-05,0.955,100.652,297533,2005
+Run To The Hills - Live In Dortmund,Death on the Road,24,2005-08-29,0.105,0.118,0.983,0,-4.44,1,0.159,9.38e-05,0.00174,0.93,170.312,264107,2005
+"Wildest Dreams - Live Dortmund, Germany",Death on the Road,14,2005-08-29,0.0853,0.204,0.959,0,-4.616,1,0.129,0.00431,0.000941,0.959,106.716,291800,2005
+"Wrathchild - Live Dortmund, Germany",Death on the Road,13,2005-08-29,0.116,0.349,0.995,9,-3.713,0,0.149,0.000169,0.0229,0.441,109.645,169333,2005
+"Can I Play With Madness - Live Dortmund, Germany",Death on the Road,12,2005-08-29,0.102,0.215,0.99,2,-3.869,1,0.234,0.00253,6.93e-06,0.979,140.428,210293,2005
+"The Trooper - Live Dortmund, Germany",Death on the Road,13,2005-08-29,0.303,0.317,0.981,4,-5.394,0,0.126,6.59e-05,0.0043,0.969,88.652,252173,2005
+"Dance of Death - Live Dortmund, Germany",Death on the Road,16,2005-08-29,0.164,0.252,0.893,4,-5.961,0,0.118,0.00336,0.000318,0.961,135.544,563400,2005
+"Rainmaker - Live Dortmund, Germany",Death on the Road,14,2005-08-29,0.23,0.292,0.987,5,-4.189,1,0.195,0.000513,5.53e-06,0.984,91.038,241493,2005
+"Brave New World - Live Dortmund, Germany",Death on the Road,13,2005-08-29,0.159,0.264,0.909,2,-5.077,0,0.104,0.000377,8.97e-05,0.908,119.66,369773,2005
+"Paschendale - Live Dortmund, Germany",Death on the Road,15,2005-08-29,0.141,0.261,0.942,4,-5.728,0,0.144,0.00884,8.56e-05,0.965,122.96,617493,2005
+"Lord of the Flies - Live Dortmund, Germany",Death on the Road,15,2005-08-29,0.171,0.21,0.974,9,-5.395,1,0.115,0.00011,0.00877,0.985,91.746,304173,2005
+"No More Lies - Live Dortmund, Germany",Death on the Road,14,2005-08-29,0.125,0.212,0.889,9,-6.421,0,0.0727,0.00208,0.00224,0.978,95.043,469560,2005
+"Hallowed Be Thy Name - Live Dortmund, Germany",Death on the Road,14,2005-08-29,0.0802,0.24,0.972,9,-4.114,1,0.151,0.00037,0.000217,0.905,116.818,451667,2005
+"Fear of the Dark - Live Dortmund, Germany",Death on the Road,13,2005-08-29,0.0625,0.237,0.954,2,-5.796,0,0.183,0.000369,0.00428,0.437,124.384,448067,2005
+"Iron Maiden - Live Dortmund, Germany",Death on the Road,10,2005-08-29,0.0519,0.151,0.995,9,-5.06,0,0.121,0.0012,0.000377,0.979,94.615,290040,2005
+"Journeyman - Live Dortmund, Germany",Death on the Road,14,2005-08-29,0.149,0.166,0.784,0,-7.69,1,0.0648,0.216,6.58e-05,0.982,184.259,422667,2005
+"The Number of the Beast - Live Dortmund, Germany",Death on the Road,11,2005-08-29,0.21,0.359,0.973,7,-4.459,1,0.163,0.00257,2.49e-05,0.951,101.103,297533,2005
+"Run to the Hills - Live Dortmund, Germany",Death on the Road,11,2005-08-29,0.135,0.125,0.982,0,-4.399,1,0.147,0.000114,0.00132,0.93,168.423,264027,2005
+Wildest Dreams - 2015 Remaster,Dance of Death (2015 - Remaster),26,2003-09-03,0.57,0.302,0.923,9,-4.621,1,0.0829,0.000616,8.28e-06,0.078,103.8,232107,2003
+Rainmaker - 2015 Remaster,Dance of Death (2015 - Remaster),32,2003-09-03,0.539,0.35,0.952,5,-4.485,1,0.14,0.00122,0.0,0.262,86.146,228493,2003
+No More Lies - 2015 Remaster,Dance of Death (2015 - Remaster),29,2003-09-03,0.214,0.176,0.845,5,-5.732,1,0.092,0.00546,0.00311,0.123,190.867,441787,2003
+Montségur - 2015 Remaster,Dance of Death (2015 - Remaster),26,2003-09-03,0.215,0.285,0.99,9,-3.512,1,0.201,7.09e-05,0.00021,0.118,78.537,350373,2003
+Dance of Death - 2015 Remaster,Dance of Death (2015 - Remaster),41,2003-09-03,0.296,0.311,0.876,4,-5.115,0,0.0936,0.0466,0.00442,0.134,124.584,516427,2003
+Gates of Tomorrow - 2015 Remaster,Dance of Death (2015 - Remaster),24,2003-09-03,0.336,0.245,0.963,7,-4.532,0,0.209,0.000443,6.2e-05,0.367,95.677,312120,2003
+New Frontier - 2015 Remaster,Dance of Death (2015 - Remaster),24,2003-09-03,0.521,0.316,0.967,2,-3.9,0,0.0884,0.000177,0.0,0.0685,104.3,304280,2003
+Paschendale - 2015 Remaster,Dance of Death (2015 - Remaster),34,2003-09-03,0.188,0.168,0.941,6,-5.303,0,0.0938,0.0119,2.04e-05,0.069,89.221,508200,2003
+Face in the Sand - 2015 Remaster,Dance of Death (2015 - Remaster),25,2003-09-03,0.214,0.272,0.971,4,-5.798,0,0.19,0.000567,0.00027,0.0927,101.282,390960,2003
+Age of Innocence - 2015 Remaster,Dance of Death (2015 - Remaster),23,2003-09-03,0.239,0.213,0.932,4,-5.357,0,0.0794,0.000103,0.00157,0.288,136.217,370507,2003
+Journeyman - 2015 Remaster,Dance of Death (2015 - Remaster),27,2003-09-03,0.308,0.188,0.628,9,-7.963,0,0.0353,0.183,0.00474,0.153,198.146,426307,2003
+Wildest Dreams - 2015 Remaster,Dance of Death (2015 Remaster),39,2003-01-01,0.57,0.302,0.923,9,-4.621,1,0.0829,0.000616,8.28e-06,0.078,103.8,232107,2003
+Rainmaker - 2015 Remaster,Dance of Death (2015 Remaster),46,2003-01-01,0.539,0.35,0.952,5,-4.485,1,0.14,0.00122,0.0,0.262,86.146,228493,2003
+No More Lies - 2015 Remaster,Dance of Death (2015 Remaster),44,2003-01-01,0.214,0.176,0.845,5,-5.732,1,0.092,0.00546,0.00311,0.123,190.867,441787,2003
+Montségur - 2015 Remaster,Dance of Death (2015 Remaster),39,2003-01-01,0.215,0.285,0.99,9,-3.512,1,0.201,7.09e-05,0.00021,0.118,78.537,350373,2003
+Dance of Death - 2015 Remaster,Dance of Death (2015 Remaster),56,2003-01-01,0.296,0.311,0.876,4,-5.115,0,0.0936,0.0466,0.00442,0.134,124.584,516427,2003
+Gates of Tomorrow - 2015 Remaster,Dance of Death (2015 Remaster),37,2003-01-01,0.336,0.245,0.963,7,-4.532,0,0.209,0.000443,6.2e-05,0.367,95.677,312120,2003
+New Frontier - 2015 Remaster,Dance of Death (2015 Remaster),37,2003-01-01,0.521,0.316,0.967,2,-3.9,0,0.0884,0.000177,0.0,0.0685,104.3,304280,2003
+Paschendale - 2015 Remaster,Dance of Death (2015 Remaster),44,2003-01-01,0.188,0.168,0.941,6,-5.303,0,0.0938,0.0119,2.04e-05,0.069,89.221,508200,2003
+Face in the Sand - 2015 Remaster,Dance of Death (2015 Remaster),38,2003-01-01,0.214,0.272,0.971,4,-5.798,0,0.19,0.000567,0.00027,0.0927,101.282,390960,2003
+Age of Innocence - 2015 Remaster,Dance of Death (2015 Remaster),36,2003-01-01,0.239,0.213,0.932,4,-5.357,0,0.0794,0.000103,0.00157,0.288,136.217,370507,2003
+Journeyman - 2015 Remaster,Dance of Death (2015 Remaster),46,2003-01-01,0.308,0.188,0.628,9,-7.963,0,0.0353,0.183,0.00474,0.153,198.146,426307,2003
+"Iron Maiden - Live: Radio 1 Rock Show, 14 November 1979",BBC Archives (Live),20,2002-11-18,0.152,0.184,0.988,1,-5.707,0,0.276,0.000215,0.0,0.25,97.937,225667,2002
+"Running Free - Live: Radio 1 Rock Show, 14 November 1979",BBC Archives (Live),20,2002-11-18,0.734,0.295,0.876,1,-6.721,1,0.0856,7.4e-05,0.00486,0.0653,174.072,190213,2002
+"Transylvania - Live: Radio 1 Rock Show, 14 November 1979",BBC Archives (Live),20,2002-11-18,0.435,0.0926,0.973,8,-4.801,1,0.258,0.000164,0.895,0.378,194.209,242600,2002
+"Sanctuary - Live: Radio 1 Rock Show, 14 November 1979",BBC Archives (Live),20,2002-11-18,0.351,0.296,0.969,1,-5.16,1,0.0871,7.57e-05,6.97e-05,0.0642,104.289,224640,2002
+"Wrathchild - Live: Reading Festival, 28 August 1982",BBC Archives (Live),19,2002-11-18,0.2,0.287,0.993,4,-5.522,0,0.173,0.00919,0.123,0.973,103.566,211747,2002
+"Run To The Hills - Live: Reading Festival, 28 August 1982",BBC Archives (Live),19,2002-11-18,0.13,0.177,0.968,0,-5.885,1,0.424,0.00679,0.00163,0.785,175.371,335587,2002
+"Children Of The Damned - Live: Reading Festival, 28 August 1982",BBC Archives (Live),19,2002-11-18,0.256,0.231,0.972,4,-5.528,0,0.188,0.0002,0.383,0.935,135.454,288400,2002
+"The Number Of The Beast - Live: Reading Festival, 28 August 1982",BBC Archives (Live),18,2002-11-18,0.183,0.207,0.978,0,-6.129,1,0.204,0.000294,0.118,0.965,103.384,328547,2002
+"22 Acacia Avenue - Live: Reading Festival, 28 August 1982",BBC Archives (Live),19,2002-11-18,0.0452,0.0925,0.997,9,-4.838,1,0.338,0.00023,0.0395,0.98,78.616,396453,2002
+"Transylvania - Live: Reading Festival, 28 August 1982",BBC Archives (Live),17,2002-11-18,0.0571,0.164,0.981,9,-4.831,1,0.133,0.0135,0.889,0.962,111.192,379880,2002
+"The Prisoner - Live: Reading Festival, 28 August 1982",BBC Archives (Live),17,2002-11-18,0.076,0.187,0.989,11,-5.024,0,0.138,0.000245,0.0219,0.733,109.877,349880,2002
+"Hallowed Be Thy Name - Live: Reading Festival, 28 August 1982",BBC Archives (Live),18,2002-11-18,0.152,0.203,0.958,4,-5.872,0,0.133,0.00076,0.113,0.481,111.1,456893,2002
+"Phantom Of The Opera - Live: Reading Festival, 28 August 1982",BBC Archives (Live),19,2002-11-18,0.201,0.196,0.989,9,-5.645,1,0.11,0.000205,0.0722,0.953,117.663,421880,2002
+"Iron Maiden - Live: Reading Festival, 28 August 1982",BBC Archives (Live),16,2002-11-18,0.0611,0.118,0.991,0,-5.367,1,0.165,0.000165,0.152,0.94,94.945,297587,2002
+"Prowler - Live: Reading Festival, 23 August 1980",BBC Archives (Live),18,2002-11-18,0.0717,0.238,0.99,4,-5.864,0,0.192,0.000409,0.00016,0.975,102.131,266733,2002
+"Remember Tomorrow - Live: Reading Festival, 23 August 1980",BBC Archives (Live),17,2002-11-18,0.28,0.219,0.903,0,-6.608,1,0.134,0.000691,0.000258,0.348,95.346,359427,2002
+"Killers - Live: Reading Festival, 23 August 1980",BBC Archives (Live),16,2002-11-18,0.256,0.172,0.977,0,-6.112,1,0.322,2.69e-05,0.00865,0.726,175.372,283200,2002
+"Running Free - Live: Reading Festival, 23 August 1980",BBC Archives (Live),15,2002-11-18,0.236,0.258,0.928,11,-6.315,0,0.169,7.4e-05,0.00029,0.649,189.116,232560,2002
+"Transylvania - Live: Reading Festival, 23 August 1980",BBC Archives (Live),15,2002-11-18,0.116,0.239,0.985,4,-5.899,0,0.214,5.33e-05,0.283,0.691,111.344,288947,2002
+"Iron Maiden - Live: Reading Festival, 23 August 1980",BBC Archives (Live),14,2002-11-18,0.0997,0.252,0.995,0,-5.042,1,0.178,0.000213,0.00274,0.906,104.401,296080,2002
+"Iron Maiden - Live: Radio 1 Rock Show, 14 November 1979",BBC Archives (Live),10,2002-11-18,0.152,0.184,0.988,1,-5.707,0,0.276,0.000215,0.0,0.25,97.937,225667,2002
+"Running Free - Live: Radio 1 Rock Show, 14 November 1979",BBC Archives (Live),9,2002-11-18,0.734,0.295,0.876,1,-6.721,1,0.0856,7.4e-05,0.00486,0.0653,174.072,190213,2002
+"Transylvania - Live: Radio 1 Rock Show, 14 November 1979",BBC Archives (Live),9,2002-11-18,0.435,0.0926,0.973,8,-4.801,1,0.258,0.000164,0.895,0.378,194.209,242600,2002
+"Sanctuary - Live: Radio 1 Rock Show, 14 November 1979",BBC Archives (Live),11,2002-11-18,0.351,0.296,0.969,1,-5.16,1,0.0871,7.57e-05,6.97e-05,0.0642,104.289,224640,2002
+"Wrathchild - Live: Reading Festival, 28 August 1982",BBC Archives (Live),8,2002-11-18,0.2,0.287,0.993,4,-5.522,0,0.173,0.00919,0.123,0.973,103.566,211747,2002
+"Run To The Hills - Live: Reading Festival, 28 August 1982",BBC Archives (Live),8,2002-11-18,0.13,0.177,0.968,0,-5.885,1,0.424,0.00679,0.00163,0.785,175.371,335587,2002
+"Children Of The Damned - Live: Reading Festival, 28 August 1982",BBC Archives (Live),8,2002-11-18,0.256,0.231,0.972,4,-5.528,0,0.188,0.0002,0.383,0.935,135.454,288400,2002
+"The Number Of The Beast - Live: Reading Festival, 28 August 1982",BBC Archives (Live),8,2002-11-18,0.183,0.207,0.978,0,-6.129,1,0.204,0.000294,0.118,0.965,103.384,328547,2002
+"22 Acacia Avenue - Live: Reading Festival, 28 August 1982",BBC Archives (Live),9,2002-11-18,0.0452,0.0925,0.997,9,-4.838,1,0.338,0.00023,0.0395,0.98,78.616,396453,2002
+"Transylvania - Live: Reading Festival, 28 August 1982",BBC Archives (Live),8,2002-11-18,0.0571,0.164,0.981,9,-4.831,1,0.133,0.0135,0.889,0.962,111.192,379880,2002
+"The Prisoner - Live: Reading Festival, 28 August 1982",BBC Archives (Live),8,2002-11-18,0.076,0.187,0.989,11,-5.024,0,0.138,0.000245,0.0219,0.733,109.877,349880,2002
+"Hallowed Be Thy Name - Live: Reading Festival, 28 August 1982",BBC Archives (Live),8,2002-11-18,0.152,0.203,0.958,4,-5.872,0,0.133,0.00076,0.113,0.481,111.1,456893,2002
+"Phantom Of The Opera - Live: Reading Festival, 28 August 1982",BBC Archives (Live),8,2002-11-18,0.201,0.196,0.989,9,-5.645,1,0.11,0.000205,0.0722,0.953,117.663,421880,2002
+"Iron Maiden - Live: Reading Festival, 28 August 1982",BBC Archives (Live),6,2002-11-18,0.0611,0.118,0.991,0,-5.367,1,0.165,0.000165,0.152,0.94,94.945,297587,2002
+"Prowler - Live: Reading Festival, 23 August 1980",BBC Archives (Live),9,2002-11-18,0.0717,0.238,0.99,4,-5.864,0,0.192,0.000409,0.00016,0.975,102.131,266733,2002
+"Remember Tomorrow - Live: Reading Festival, 23 August 1980",BBC Archives (Live),8,2002-11-18,0.28,0.219,0.903,0,-6.608,1,0.134,0.000691,0.000258,0.348,95.346,359427,2002
+"Killers - Live: Reading Festival, 23 August 1980",BBC Archives (Live),7,2002-11-18,0.256,0.172,0.977,0,-6.112,1,0.322,2.69e-05,0.00865,0.726,175.372,283200,2002
+"Running Free - Live: Reading Festival, 23 August 1980",BBC Archives (Live),6,2002-11-18,0.236,0.258,0.928,11,-6.315,0,0.169,7.4e-05,0.00029,0.649,189.116,232560,2002
+"Transylvania - Live: Reading Festival, 23 August 1980",BBC Archives (Live),7,2002-11-18,0.116,0.239,0.985,4,-5.899,0,0.214,5.33e-05,0.283,0.691,111.344,288947,2002
+"Iron Maiden - Live: Reading Festival, 23 August 1980",BBC Archives (Live),6,2002-11-18,0.0997,0.252,0.995,0,-5.042,1,0.178,0.000213,0.00274,0.906,104.401,296080,2002
+Murders in the Rue Morgue - Live '82,Beast Over Hammersmith (Live),25,2002-11-18,0.0718,0.239,0.993,9,-5.609,1,0.295,0.00734,0.783,0.978,105.361,272413,2002
+Wrathchild - Live '82,Beast Over Hammersmith (Live),24,2002-11-18,0.308,0.348,0.972,2,-5.101,1,0.22,0.00797,0.264,0.521,104.524,210693,2002
+Run to the Hills - Live '82,Beast Over Hammersmith (Live),23,2002-11-18,0.193,0.171,0.929,0,-5.27,1,0.181,0.00935,0.153,0.431,173.839,259813,2002
+Children of the Damned - Live '82,Beast Over Hammersmith (Live),24,2002-11-18,0.372,0.253,0.939,4,-5.273,0,0.122,0.00116,0.608,0.849,137.372,278227,2002
+The Number of the Beast - Live '82,Beast Over Hammersmith (Live),23,2002-11-18,0.126,0.209,0.969,0,-5.54,1,0.329,0.0429,0.122,0.906,97.496,307560,2002
+Another Life - Live '82,Beast Over Hammersmith (Live),23,2002-11-18,0.15,0.282,0.991,7,-4.949,1,0.242,0.0193,0.769,0.732,93.017,224533,2002
+Killers - Live '82,Beast Over Hammersmith (Live),24,2002-11-18,0.165,0.162,0.978,4,-5.153,0,0.503,0.0143,0.111,0.438,177.457,346893,2002
+22 Acacia Avenue - Live '82,Beast Over Hammersmith (Live),24,2002-11-18,0.113,0.255,0.988,4,-5.072,0,0.262,0.00107,0.353,0.38,115.112,415533,2002
+Total Eclipse - Live '82,Beast Over Hammersmith (Live),26,2002-11-18,0.154,0.238,0.985,2,-4.791,1,0.224,0.00953,0.00189,0.846,151.658,254120,2002
+Transylvania - Live '82,Beast Over Hammersmith (Live),22,2002-11-18,0.0639,0.117,0.991,2,-4.607,1,0.215,0.00804,0.633,0.956,92.737,350840,2002
+The Prisoner - Live '82,Beast Over Hammersmith (Live),23,2002-11-18,0.169,0.218,0.988,9,-5.209,1,0.187,0.0017,0.408,0.954,106.992,348720,2002
+Hallowed Be Thy Name - Live '82,Beast Over Hammersmith (Live),26,2002-11-18,0.302,0.283,0.961,4,-4.903,0,0.0922,0.00134,0.21,0.466,110.236,450920,2002
+Phantom of the Opera - Live '82,Beast Over Hammersmith (Live),24,2002-11-18,0.354,0.255,0.987,2,-4.858,1,0.122,0.00113,0.704,0.974,117.529,413200,2002
+Iron Maiden - Live '82,Beast Over Hammersmith (Live),21,2002-11-18,0.0942,0.307,0.995,7,-5.067,1,0.189,0.0145,0.302,0.884,105.288,260400,2002
+Sanctuary - Live '82,Beast Over Hammersmith (Live),21,2002-11-18,0.0543,0.278,0.995,2,-5.213,1,0.21,0.00251,0.576,0.395,111.613,252613,2002
+Drifter - Live '82,Beast Over Hammersmith (Live),20,2002-11-18,0.158,0.25,0.963,0,-5.609,1,0.266,0.0106,0.0767,0.989,102.61,558600,2002
+Running Free - Live '82,Beast Over Hammersmith (Live),19,2002-11-18,0.195,0.192,0.969,2,-5.591,1,0.221,0.0045,0.44,0.958,192.339,224387,2002
+Prowler - Live '82,Beast Over Hammersmith (Live),20,2002-11-18,0.0387,0.185,0.981,2,-4.904,1,0.23,0.0169,0.582,0.834,105.642,300253,2002
+Murders in the Rue Morgue - Live '82,Beast Over Hammersmith (Live),14,2002-11-18,0.0718,0.239,0.993,9,-5.609,1,0.295,0.00734,0.783,0.978,105.361,272413,2002
+Wrathchild - Live '82,Beast Over Hammersmith (Live),13,2002-11-18,0.308,0.348,0.972,2,-5.101,1,0.22,0.00797,0.264,0.521,104.524,210693,2002
+Run to the Hills - Live '82,Beast Over Hammersmith (Live),13,2002-11-18,0.193,0.171,0.929,0,-5.27,1,0.181,0.00935,0.153,0.431,173.839,259813,2002
+Children of the Damned - Live '82,Beast Over Hammersmith (Live),13,2002-11-18,0.372,0.253,0.939,4,-5.273,0,0.122,0.00116,0.608,0.849,137.372,278227,2002
+The Number of the Beast - Live '82,Beast Over Hammersmith (Live),13,2002-11-18,0.126,0.209,0.969,0,-5.54,1,0.329,0.0429,0.122,0.906,97.496,307560,2002
+Another Life - Live '82,Beast Over Hammersmith (Live),12,2002-11-18,0.15,0.282,0.991,7,-4.949,1,0.242,0.0193,0.769,0.732,93.017,224533,2002
+Killers - Live '82,Beast Over Hammersmith (Live),13,2002-11-18,0.165,0.162,0.978,4,-5.153,0,0.503,0.0143,0.111,0.438,177.457,346893,2002
+22 Acacia Avenue - Live '82,Beast Over Hammersmith (Live),13,2002-11-18,0.113,0.255,0.988,4,-5.072,0,0.262,0.00107,0.353,0.38,115.112,415533,2002
+Total Eclipse - Live '82,Beast Over Hammersmith (Live),16,2002-11-18,0.154,0.238,0.985,2,-4.791,1,0.224,0.00953,0.00189,0.846,151.658,254120,2002
+Transylvania - Live '82,Beast Over Hammersmith (Live),11,2002-11-18,0.0639,0.117,0.991,2,-4.607,1,0.215,0.00804,0.633,0.956,92.737,350840,2002
+The Prisoner - Live '82,Beast Over Hammersmith (Live),12,2002-11-18,0.169,0.218,0.988,9,-5.209,1,0.187,0.0017,0.408,0.954,106.992,348720,2002
+Hallowed Be Thy Name - Live '82,Beast Over Hammersmith (Live),16,2002-11-18,0.302,0.283,0.961,4,-4.903,0,0.0922,0.00134,0.21,0.466,110.236,450920,2002
+Phantom of the Opera - Live '82,Beast Over Hammersmith (Live),12,2002-11-18,0.354,0.255,0.987,2,-4.858,1,0.122,0.00113,0.704,0.974,117.529,413200,2002
+Iron Maiden - Live '82,Beast Over Hammersmith (Live),10,2002-11-18,0.0942,0.307,0.995,7,-5.067,1,0.189,0.0145,0.302,0.884,105.288,260400,2002
+Sanctuary - Live '82,Beast Over Hammersmith (Live),11,2002-11-18,0.0543,0.278,0.995,2,-5.213,1,0.21,0.00251,0.576,0.395,111.613,252613,2002
+Drifter - Live '82,Beast Over Hammersmith (Live),10,2002-11-18,0.158,0.25,0.963,0,-5.609,1,0.266,0.0106,0.0767,0.989,102.61,558600,2002
+Running Free - Live '82,Beast Over Hammersmith (Live),8,2002-11-18,0.195,0.192,0.969,2,-5.591,1,0.221,0.0045,0.44,0.958,192.339,224387,2002
+Prowler - Live '82,Beast Over Hammersmith (Live),10,2002-11-18,0.0387,0.185,0.981,2,-4.904,1,0.23,0.0169,0.582,0.834,105.642,300253,2002
+Intro - Live at Rock in Rio; 2015 Remastered Version,Rock in Rio (Live; 2015 Remastered Version),18,2002-03-21,0.108,0.215,0.69,7,-14.285,0,0.0364,0.662,0.802,0.958,132.266,115684,2002
+The Wicker Man - Live at Rock in Rio; 2015 Remastered Version,Rock in Rio (Live; 2015 Remastered Version),22,2002-03-21,0.119,0.178,0.984,4,-5.377,0,0.15,0.0012,0.00121,0.947,102.325,281821,2002
+Ghost of the Navigator - Live at Rock in Rio; 2015 Remastered Version,Rock in Rio (Live; 2015 Remastered Version),21,2002-03-21,0.156,0.223,0.968,2,-5.851,0,0.166,0.00405,0.000215,0.877,113.339,408211,2002
+Brave New World - Live at Rock in Rio; 2015 Remastered Version,Rock in Rio (Live; 2015 Remastered Version),20,2002-03-21,0.167,0.249,0.912,2,-5.642,0,0.163,0.051,0.0115,0.988,119.87,366997,2002
+Wrathchild - Live at Rock in Rio; 2015 Remastered Version,Rock in Rio (Live; 2015 Remastered Version),19,2002-03-21,0.0838,0.191,0.994,4,-5.148,0,0.212,0.00672,0.0406,0.982,108.203,185877,2002
+2 Minutes to Midnight - Live at Rock in Rio; 2015 Remastered Version,Rock in Rio (Live; 2015 Remastered Version),18,2002-03-21,0.114,0.196,0.984,5,-5.925,1,0.198,0.0148,0.00107,0.985,100.06,428224,2002
+Blood Brothers - Live at Rock in Rio; 2015 Remastered Version,Rock in Rio (Live; 2015 Remastered Version),19,2002-03-21,0.296,0.192,0.873,4,-6.733,0,0.0533,0.0106,0.152,0.62,92.513,433771,2002
+Sign of the Cross - Live at Rock in Rio; 2015 Remastered Version,Rock in Rio (Live; 2015 Remastered Version),23,2002-03-21,0.11,0.225,0.915,0,-7.26,1,0.0884,0.00718,0.211,0.927,110.95,650496,2002
+The Mercenary - Live at Rock in Rio; 2015 Remastered Version,Rock in Rio (Live; 2015 Remastered Version),17,2002-03-21,0.149,0.192,0.969,4,-5.793,0,0.162,0.00204,0.0032,0.877,113.705,282752,2002
+The Trooper - Live at Rock in Rio; 2015 Remastered Version,Rock in Rio (Live; 2015 Remastered Version),21,2002-03-21,0.111,0.186,0.986,4,-6.275,0,0.167,0.00253,0.00797,0.88,86.905,263660,2002
+Dream of Mirrors - Live at Rock in Rio; 2015 Remastered Version,Rock in Rio (Live; 2015 Remastered Version),18,2002-03-21,0.267,0.202,0.894,9,-6.624,0,0.124,0.00999,0.000106,0.978,96.634,577294,2002
+The Clansman - Live at Rock in Rio; 2015 Remastered Version,Rock in Rio (Live; 2015 Remastered Version),25,2002-03-21,0.27,0.131,0.916,2,-6.651,1,0.138,0.0885,0.0302,0.714,78.142,559197,2002
+The Evil That Men Do - Live at Rock in Rio; 2015 Remastered Version,Rock in Rio (Live; 2015 Remastered Version),19,2002-03-21,0.115,0.0855,0.979,4,-5.791,0,0.151,0.00582,0.0177,0.988,78.793,280597,2002
+Fear of the Dark - Live at Rock in Rio; 2015 Remastered Version,Rock in Rio (Live; 2015 Remastered Version),32,2002-03-21,0.14,0.132,0.948,2,-6.508,0,0.19,0.00659,0.0581,0.939,92.988,461075,2002
+Iron Maiden - Live at Rock in Rio; 2015 Remastered Version,Rock in Rio (Live; 2015 Remastered Version),16,2002-03-21,0.0516,0.23,0.991,2,-6.712,0,0.142,0.0125,0.0427,0.976,94.479,355618,2002
+The Number of the Beast - Live at Rock in Rio; 2015 Remastered Version,Rock in Rio (Live; 2015 Remastered Version),19,2002-03-21,0.121,0.196,0.982,7,-5.739,1,0.288,0.0196,0.0702,0.993,99.116,300555,2002
+Hallowed Be Thy Name - Live at Rock in Rio; 2015 Remastered Version,Rock in Rio (Live; 2015 Remastered Version),21,2002-03-21,0.0712,0.227,0.969,4,-5.909,0,0.158,0.00685,0.0699,0.904,115.739,444160,2002
+Sanctuary - Live at Rock in Rio; 2015 Remastered Version,Rock in Rio (Live; 2015 Remastered Version),15,2002-03-21,0.0603,0.238,0.994,7,-5.361,1,0.255,0.0134,0.0881,0.843,106.322,321899,2002
+Run to the Hills - Live at Rock in Rio; 2015 Remastered Version,Rock in Rio (Live; 2015 Remastered Version),17,2002-03-21,0.0836,0.106,0.982,0,-6.534,1,0.253,0.0261,0.228,0.778,85.725,338373,2002
+Intro (Arthur's Farewell) - Live '01,Rock in Rio (Live),36,2002-03-20,0.101,0.256,0.737,7,-13.929,0,0.0374,0.655,0.917,0.96,132.426,115893,2002
+The Wicker Man - Live '01,Rock in Rio (Live),41,2002-03-20,0.12,0.299,0.988,4,-4.766,0,0.165,0.000536,0.000395,0.936,102.771,281733,2002
+Ghost Of The Navigator - Live '01,Rock in Rio (Live),41,2002-03-20,0.168,0.227,0.973,2,-5.164,0,0.192,0.00233,0.00033,0.953,111.817,408573,2002
+Brave New World - Live '01,Rock in Rio (Live),40,2002-03-20,0.165,0.25,0.925,2,-4.994,0,0.176,0.0307,0.00811,0.987,119.897,366733,2002
+Wrathchild - Live '01,Rock in Rio (Live),38,2002-03-20,0.0724,0.245,0.996,4,-4.463,0,0.238,0.00397,0.0344,0.982,108.892,185760,2002
+2 Minutes To Midnight - Live '01,Rock in Rio (Live),39,2002-03-20,0.0876,0.186,0.992,5,-4.988,1,0.219,0.00529,0.00145,0.989,100.867,386773,2002
+Blood Brothers - Live '01,Rock in Rio (Live),39,2002-03-20,0.258,0.191,0.899,4,-6.066,0,0.0636,0.005,0.0728,0.58,90.089,435467,2002
+Sign of the Cross - Live At Rock in Rio '01,Rock in Rio (Live),40,2002-03-20,0.113,0.216,0.919,0,-6.591,1,0.086,0.00246,0.175,0.507,105.666,651067,2002
+The Mercenary - Live '01,Rock in Rio (Live),35,2002-03-20,0.148,0.168,0.98,4,-5.037,0,0.171,0.00118,0.00432,0.856,99.814,282667,2002
+The Trooper - Live '01,Rock in Rio (Live),40,2002-03-20,0.0934,0.29,0.988,2,-5.603,0,0.151,0.00289,0.0182,0.967,89.544,273493,2002
+Dream Of Mirrors - Live '01,Rock in Rio (Live),37,2002-03-20,0.242,0.209,0.91,9,-6.019,0,0.151,0.00697,5.07e-05,0.974,96.69,578293,2002
+The Clansman - Live At Rock in Rio '01,Rock in Rio (Live),42,2002-03-20,0.268,0.137,0.922,2,-6.098,1,0.187,0.0719,0.019,0.956,76.694,570440,2002
+The Evil That Men Do - Live '01,Rock in Rio (Live),38,2002-03-20,0.146,0.229,0.983,4,-5.168,0,0.122,0.00453,0.0182,0.987,88.27,280693,2002
+Fear of the Dark - Live '01,Rock in Rio (Live),51,2002-03-20,0.141,0.145,0.961,2,-5.966,0,0.207,0.00454,0.0392,0.969,94.898,470293,2002
+Iron Maiden - Live '01,Rock in Rio (Live),35,2002-03-20,0.0434,0.228,0.994,9,-6.165,0,0.16,0.00664,0.0199,0.977,94.756,351840,2002
+The Number Of The Beast - Live '01,Rock in Rio (Live),37,2002-03-20,0.117,0.191,0.985,7,-4.984,1,0.294,0.0142,0.0973,0.991,96.57,300400,2002
+Hallowed Be Thy Name - Live '01,Rock in Rio (Live),40,2002-03-20,0.0692,0.232,0.975,9,-5.139,1,0.177,0.00345,0.0521,0.907,115.474,443933,2002
+Sanctuary - Live '01,Rock in Rio (Live),32,2002-03-20,0.0536,0.194,0.994,7,-4.624,1,0.27,0.0095,0.0821,0.925,106.731,317293,2002
+Run To The Hills - Live '01,Rock in Rio (Live),39,2002-03-20,0.0846,0.111,0.986,5,-5.656,1,0.238,0.00974,0.108,0.964,84.792,292147,2002
+The Wicker Man - 2015 Remaster,Brave New World (2015 - Remaster),47,2000-05-29,0.296,0.424,0.98,4,-4.33,0,0.154,0.000855,5.72e-06,0.129,101.502,275253,2000
+Ghost of the Navigator - 2015 Remaster,Brave New World (2015 - Remaster),38,2000-05-29,0.36,0.282,0.942,0,-4.904,1,0.092,0.00114,2.77e-05,0.0875,107.992,410027,2000
+Brave New World - 2015 Remaster,Brave New World (2015 - Remaster),40,2000-05-29,0.355,0.353,0.872,2,-5.185,0,0.0596,0.00651,0.000532,0.125,111.336,379067,2000
+Blood Brothers - 2015 Remaster,Brave New World (2015 - Remaster),42,2000-05-29,0.444,0.243,0.809,4,-6.316,0,0.0479,0.0501,0.0338,0.133,182.679,434293,2000
+The Mercenary - 2015 Remaster,Brave New World (2015 - Remaster),30,2000-05-29,0.512,0.266,0.939,9,-4.201,1,0.0789,0.00103,5.66e-05,0.173,100.073,282893,2000
+Dream of Mirrors - 2015 Remaster,Brave New World (2015 - Remaster),31,2000-05-29,0.35,0.295,0.764,9,-4.997,0,0.0538,0.0151,0.0,0.288,97.848,561213,2000
+The Fallen Angel - 2015 Remaster,Brave New World (2015 - Remaster),28,2000-05-29,0.319,0.274,0.985,4,-4.106,0,0.175,0.00355,1.29e-05,0.254,103.665,240667,2000
+The Nomad - 2015 Remaster,Brave New World (2015 - Remaster),29,2000-05-29,0.404,0.338,0.915,9,-3.98,1,0.0449,0.0712,0.000266,0.603,128.853,546040,2000
+Out of the Silent Planet - 2015 Remaster,Brave New World (2015 - Remaster),36,2000-05-29,0.335,0.209,0.932,4,-5.117,0,0.153,0.00936,0.000327,0.225,155.107,385653,2000
+The Thin Line Between Love and Hate - 2015 Remaster,Brave New World (2015 - Remaster),28,2000-05-29,0.312,0.236,0.955,6,-4.586,0,0.157,0.00105,0.243,0.623,167.749,507253,2000
+The Wicker Man - 2015 Remaster,Brave New World (2015 Remaster),60,2000-01-01,0.296,0.424,0.98,4,-4.33,0,0.154,0.000855,5.72e-06,0.129,101.502,275253,2000
+Ghost of the Navigator - 2015 Remaster,Brave New World (2015 Remaster),52,2000-01-01,0.36,0.282,0.942,0,-4.904,1,0.092,0.00114,2.77e-05,0.0875,107.992,410027,2000
+Brave New World - 2015 Remaster,Brave New World (2015 Remaster),54,2000-01-01,0.355,0.353,0.872,2,-5.185,0,0.0596,0.00651,0.000532,0.125,111.336,379067,2000
+Blood Brothers - 2015 Remaster,Brave New World (2015 Remaster),57,2000-01-01,0.444,0.243,0.809,4,-6.316,0,0.0479,0.0501,0.0338,0.133,182.679,434293,2000
+The Mercenary - 2015 Remaster,Brave New World (2015 Remaster),43,2000-01-01,0.512,0.266,0.939,9,-4.201,1,0.0789,0.00103,5.66e-05,0.173,100.073,282893,2000
+Dream of Mirrors - 2015 Remaster,Brave New World (2015 Remaster),45,2000-01-01,0.35,0.295,0.764,9,-4.997,0,0.0538,0.0151,0.0,0.288,97.848,561213,2000
+The Fallen Angel - 2015 Remaster,Brave New World (2015 Remaster),42,2000-01-01,0.319,0.274,0.985,4,-4.106,0,0.175,0.00355,1.29e-05,0.254,103.665,240667,2000
+The Nomad - 2015 Remaster,Brave New World (2015 Remaster),42,2000-01-01,0.404,0.338,0.915,9,-3.98,1,0.0449,0.0712,0.000266,0.603,128.853,546040,2000
+Out of the Silent Planet - 2015 Remaster,Brave New World (2015 Remaster),49,2000-01-01,0.335,0.209,0.932,4,-5.117,0,0.153,0.00936,0.000327,0.225,155.107,385653,2000
+The Thin Line Between Love and Hate - 2015 Remaster,Brave New World (2015 Remaster),42,2000-01-01,0.312,0.236,0.955,6,-4.586,0,0.157,0.00105,0.243,0.623,167.749,507253,2000
+Futureal - 2015 Remaster,Virtual XI (2015 - Remaster),27,1998-03-23,0.706,0.398,0.99,4,-3.208,0,0.0841,0.0061,0.00292,0.314,99.785,175120,1998
+The Angel and the Gambler - 2015 Remaster,Virtual XI (2015 - Remaster),22,1998-03-23,0.376,0.311,0.822,2,-6.284,1,0.0438,0.102,0.00195,0.097,159.622,592720,1998
+Lightning Strikes Twice - 2015 Remaster,Virtual XI (2015 - Remaster),21,1998-03-23,0.385,0.219,0.959,7,-4.115,1,0.226,0.105,6.51e-05,0.23,184.344,290200,1998
+The Clansman - 2015 Remaster,Virtual XI (2015 - Remaster),37,1998-03-23,0.177,0.257,0.683,2,-6.67,1,0.0495,0.15,0.0111,0.116,154.106,539787,1998
+When Two Worlds Collide - 2015 Remaster,Virtual XI (2015 - Remaster),20,1998-03-23,0.346,0.267,0.908,11,-4.077,0,0.0672,0.0255,6.53e-05,0.148,139.465,377133,1998
+The Educated Fool - 2015 Remaster,Virtual XI (2015 - Remaster),21,1998-03-23,0.244,0.358,0.894,4,-6.01,0,0.124,0.153,0.00202,0.113,96.765,404800,1998
+Don't Look to the Eyes of a Stranger - 2015 Remaster,Virtual XI (2015 - Remaster),21,1998-03-23,0.473,0.351,0.788,8,-5.451,0,0.0537,0.0341,0.031,0.0844,152.217,483653,1998
+Como Estais Amigos - 2015 Remaster,Virtual XI (2015 - Remaster),20,1998-03-23,0.148,0.172,0.665,2,-3.938,0,0.0311,0.0958,0.000865,0.122,87.956,330093,1998
+Futureal - 2015 Remaster,Virtual XI (2015 Remaster),41,1998-01-01,0.706,0.398,0.99,4,-3.208,0,0.0841,0.0061,0.00292,0.314,99.785,175120,1998
+The Angel and the Gambler - 2015 Remaster,Virtual XI (2015 Remaster),35,1998-01-01,0.376,0.311,0.822,2,-6.284,1,0.0438,0.102,0.00195,0.097,159.622,592720,1998
+Lightning Strikes Twice - 2015 Remaster,Virtual XI (2015 Remaster),35,1998-01-01,0.385,0.219,0.959,7,-4.115,1,0.226,0.105,6.51e-05,0.23,184.344,290200,1998
+The Clansman - 2015 Remaster,Virtual XI (2015 Remaster),50,1998-01-01,0.177,0.257,0.683,2,-6.67,1,0.0495,0.15,0.0111,0.116,154.106,539787,1998
+When Two Worlds Collide - 2015 Remaster,Virtual XI (2015 Remaster),34,1998-01-01,0.346,0.267,0.908,11,-4.077,0,0.0672,0.0255,6.53e-05,0.148,139.465,377133,1998
+The Educated Fool - 2015 Remaster,Virtual XI (2015 Remaster),35,1998-01-01,0.244,0.358,0.894,4,-6.01,0,0.124,0.153,0.00202,0.113,96.765,404800,1998
+Don't Look to the Eyes of a Stranger - 2015 Remaster,Virtual XI (2015 Remaster),36,1998-01-01,0.473,0.351,0.788,8,-5.451,0,0.0537,0.0341,0.031,0.0844,152.217,483653,1998
+Como Estais Amigos - 2015 Remaster,Virtual XI (2015 Remaster),37,1998-01-01,0.148,0.172,0.665,2,-3.938,0,0.0311,0.0958,0.000865,0.122,87.956,330093,1998
+Sign of the Cross - 2015 Remaster,The X Factor (2015 - Remaster),28,1995-10-02,0.0903,0.348,0.824,4,-7.718,0,0.048,0.0329,0.654,0.112,100.816,676987,1995
+Lord of the Flies - 2015 Remaster,The X Factor (2015 - Remaster),24,1995-10-02,0.331,0.305,0.863,6,-6.771,0,0.0427,0.0351,0.00138,0.2,163.613,303627,1995
+Man on the Edge - 2015 Remaster,The X Factor (2015 - Remaster),29,1995-10-02,0.168,0.377,0.97,9,-5.408,0,0.155,0.00414,0.00606,0.092,137.5,253800,1995
+Fortunes of War - 2015 Remaster,The X Factor (2015 - Remaster),21,1995-10-02,0.256,0.363,0.624,4,-9.045,0,0.0691,0.275,0.215,0.115,169.954,443587,1995
+Look for the Truth - 2015 Remaster,The X Factor (2015 - Remaster),20,1995-10-02,0.093,0.363,0.637,4,-8.47,0,0.0462,0.185,0.00103,0.101,98.325,310067,1995
+The Aftermath - 2015 Remaster,The X Factor (2015 - Remaster),19,1995-10-02,0.224,0.392,0.679,9,-6.693,0,0.0449,0.0447,0.00172,0.0999,123.543,381107,1995
+Judgement of Heaven - 2015 Remaster,The X Factor (2015 - Remaster),19,1995-10-02,0.462,0.328,0.949,4,-7.106,1,0.0661,0.00412,0.00486,0.0932,176.558,312307,1995
+Blood on the World's Hands - 2015 Remaster,The X Factor (2015 - Remaster),19,1995-10-02,0.379,0.366,0.841,0,-7.632,1,0.109,0.171,0.0965,0.122,167.432,357333,1995
+The Edge of Darkness - 2015 Remaster,The X Factor (2015 - Remaster),20,1995-10-02,0.123,0.376,0.774,4,-8.337,0,0.0928,0.0375,0.0138,0.0869,133.443,399493,1995
+2 AM - 2015 Remaster,The X Factor (2015 - Remaster),21,1995-10-02,0.187,0.319,0.621,7,-6.74,1,0.0308,0.0249,0.00164,0.0916,150.876,337587,1995
+The Unbeliever - 2015 Remaster,The X Factor (2015 - Remaster),18,1995-10-02,0.427,0.399,0.902,9,-6.228,1,0.0492,0.00881,0.0855,0.0819,127.745,490347,1995
+Sign of the Cross - 2015 Remaster,The X Factor (2015 Remaster),43,1995-01-01,0.0903,0.348,0.824,4,-7.718,0,0.048,0.0329,0.654,0.112,100.816,676987,1995
+Lord of the Flies - 2015 Remaster,The X Factor (2015 Remaster),37,1995-01-01,0.331,0.305,0.863,6,-6.771,0,0.0427,0.0351,0.00138,0.2,163.613,303627,1995
+Man on the Edge - 2015 Remaster,The X Factor (2015 Remaster),44,1995-01-01,0.168,0.377,0.97,9,-5.408,0,0.155,0.00414,0.00606,0.092,137.5,253800,1995
+Fortunes of War - 2015 Remaster,The X Factor (2015 Remaster),36,1995-01-01,0.256,0.363,0.624,4,-9.045,0,0.0691,0.275,0.215,0.115,169.954,443587,1995
+Look for the Truth - 2015 Remaster,The X Factor (2015 Remaster),35,1995-01-01,0.093,0.363,0.637,4,-8.47,0,0.0462,0.185,0.00103,0.101,98.325,310067,1995
+The Aftermath - 2015 Remaster,The X Factor (2015 Remaster),34,1995-01-01,0.224,0.392,0.679,9,-6.693,0,0.0449,0.0447,0.00172,0.0999,123.543,381107,1995
+Judgement of Heaven - 2015 Remaster,The X Factor (2015 Remaster),34,1995-01-01,0.462,0.328,0.949,4,-7.106,1,0.0661,0.00412,0.00486,0.0932,176.558,312307,1995
+Blood on the World's Hands - 2015 Remaster,The X Factor (2015 Remaster),33,1995-01-01,0.379,0.366,0.841,0,-7.632,1,0.109,0.171,0.0965,0.122,167.432,357333,1995
+The Edge of Darkness - 2015 Remaster,The X Factor (2015 Remaster),33,1995-01-01,0.123,0.376,0.774,4,-8.337,0,0.0928,0.0375,0.0138,0.0869,133.443,399493,1995
+2 AM - 2015 Remaster,The X Factor (2015 Remaster),34,1995-01-01,0.187,0.319,0.621,7,-6.74,1,0.0308,0.0249,0.00164,0.0916,150.876,337587,1995
+The Unbeliever - 2015 Remaster,The X Factor (2015 Remaster),32,1995-01-01,0.427,0.399,0.902,9,-6.228,1,0.0492,0.00881,0.0855,0.0819,127.745,490347,1995
+The Number Of The Beast - Live; 1998 Remastered Version,A Real Live Dead One (Live; 1998 Remaster),26,1993-10-18,0.268,0.287,0.997,0,-3.124,1,0.107,0.00206,0.000397,0.944,99.545,294627,1993
+The Trooper - Live; 1998 Remastered Version,A Real Live Dead One (Live; 1998 Remaster),31,1993-10-18,0.547,0.212,0.995,4,-2.953,0,0.099,0.000355,0.00448,0.974,179.936,235307,1993
+Prowler - Live; 1998 Remastered Version,A Real Live Dead One (Live; 1998 Remaster),27,1993-10-18,0.253,0.245,0.988,2,-4.382,1,0.109,0.00222,0.012,0.98,126.528,255627,1993
+Transylvania - Live; 1998 Remastered Version,A Real Live Dead One (Live; 1998 Remaster),27,1993-10-18,0.342,0.249,0.963,2,-6.303,1,0.0709,7.3e-05,0.644,0.68,105.744,265867,1993
+Remember Tomorrow - Live; 1998 Remastered Version,A Real Live Dead One (Live; 1998 Remaster),26,1993-10-18,0.323,0.302,0.83,0,-7.395,1,0.042,0.00212,0.501,0.741,114.583,352707,1993
+Where Eagles Dare - Live; 1998 Remastered Version,A Real Live Dead One (Live; 1998 Remaster),27,1993-10-18,0.551,0.249,0.986,11,-4.787,0,0.0638,3.64e-05,0.102,0.967,122.649,289333,1993
+Sanctuary - Live; 1998 Remastered Version,A Real Live Dead One (Live; 1998 Remaster),23,1993-10-18,0.184,0.286,0.998,2,-4.335,1,0.176,0.0116,0.00468,0.498,114.028,293227,1993
+Running Free - Live; 1998 Remastered Version,A Real Live Dead One (Live; 1998 Remaster),24,1993-10-18,0.418,0.375,0.99,4,-3.922,0,0.102,0.0289,0.00546,0.705,96.4,228933,1993
+Run To The Hills - Live; 1998 Remastered Version,A Real Live Dead One (Live; 1998 Remaster),24,1993-10-18,0.218,0.193,0.995,0,-3.579,1,0.223,0.00214,0.00165,0.773,172.855,237533,1993
+2 Minutes To Midnight - Live; 1998 Remastered Version,A Real Live Dead One (Live; 1998 Remaster),24,1993-10-18,0.295,0.263,0.996,9,-3.552,0,0.115,0.0116,0.00297,0.929,101.363,337400,1993
+Iron Maiden - Live; 1998 Remastered Version,A Real Live Dead One (Live; 1998 Remaster),22,1993-10-18,0.0797,0.278,0.998,7,-3.158,1,0.287,0.00451,0.000702,0.954,118.247,324600,1993
+Hallowed Be Thy Name - Live; 1998 Remastered Version,A Real Live Dead One (Live; 1998 Remaster),27,1993-10-18,0.218,0.315,0.994,4,-2.668,0,0.113,0.00105,0.132,0.638,119.886,471840,1993
+Be Quick Or Be Dead - Live; 1998 Remastered Version,A Real Live Dead One (Live; 1998 Remaster),25,1993-10-18,0.387,0.261,0.982,0,-6.335,1,0.194,0.000329,0.00622,0.877,132.984,196827,1993
+From Here To Eternity - Live; 1998 Remastered Version,A Real Live Dead One (Live; 1998 Remaster),24,1993-10-18,0.354,0.22,0.957,9,-6.12,1,0.105,0.0341,3.39e-06,0.709,155.756,259840,1993
+Can I Play With Madness - Live; 1998 Remastered Version,A Real Live Dead One (Live; 1998 Remaster),24,1993-10-18,0.319,0.27,0.954,2,-6.782,1,0.232,0.106,2.58e-05,0.94,78.304,282493,1993
+Wasting Love - Live; 1998 Remastered Version,A Real Live Dead One (Live; 1998 Remaster),37,1993-10-18,0.289,0.176,0.886,4,-5.77,0,0.0607,0.00453,0.000627,0.945,78.933,347800,1993
+Tailgunner - Live; 1998 Remastered Version,A Real Live Dead One (Live; 1998 Remaster),22,1993-10-18,0.302,0.223,0.994,11,-4.4,1,0.0782,0.000388,0.0754,0.946,109.233,249507,1993
+The Evil That Men Do - Live; 1998 Remastered Version,A Real Live Dead One (Live; 1998 Remaster),25,1993-10-18,0.149,0.229,0.972,4,-5.596,0,0.186,0.00338,0.154,0.73,88.505,325893,1993
+Afraid To Shoot Strangers - Live; 1998 Remastered Version,A Real Live Dead One (Live; 1998 Remaster),29,1993-10-18,0.189,0.173,0.855,6,-7.982,0,0.0788,0.00115,0.0804,0.877,160.139,407973,1993
+Bring Your Daughter...To The Slaughter - Live; 1998 Remastered Version,A Real Live Dead One (Live; 1998 Remaster),25,1993-10-18,0.504,0.24,0.974,9,-4.699,1,0.0794,0.000799,0.00435,0.863,161.983,317693,1993
+The Number Of The Beast - Live; 1998 Remastered Version,A Real Live Dead One,12,1993-03-23,0.268,0.287,0.997,0,-3.124,1,0.107,0.00206,0.000397,0.944,99.545,294627,1993
+The Trooper - Live; 1998 Remastered Version,A Real Live Dead One,15,1993-03-23,0.547,0.212,0.995,4,-2.953,0,0.099,0.000355,0.00448,0.974,179.936,235307,1993
+Prowler - Live; 1998 Remastered Version,A Real Live Dead One,14,1993-03-23,0.253,0.245,0.988,2,-4.382,1,0.109,0.00222,0.012,0.98,126.528,255627,1993
+Transylvania - Live; 1998 Remastered Version,A Real Live Dead One,14,1993-03-23,0.342,0.249,0.963,2,-6.303,1,0.0709,7.3e-05,0.644,0.68,105.744,265867,1993
+Remember Tomorrow - Live; 1998 Remastered Version,A Real Live Dead One,14,1993-03-23,0.323,0.302,0.83,0,-7.395,1,0.042,0.00212,0.501,0.741,114.583,352707,1993
+Where Eagles Dare - Live; 1998 Remastered Version,A Real Live Dead One,14,1993-03-23,0.551,0.249,0.986,11,-4.787,0,0.0638,3.64e-05,0.102,0.967,122.649,289333,1993
+Sanctuary - Live; 1998 Remastered Version,A Real Live Dead One,11,1993-03-23,0.184,0.286,0.998,2,-4.335,1,0.176,0.0116,0.00468,0.498,114.028,293227,1993
+Running Free - Live; 1998 Remastered Version,A Real Live Dead One,11,1993-03-23,0.418,0.375,0.99,4,-3.922,0,0.102,0.0289,0.00546,0.705,96.4,228933,1993
+Run To The Hills - Live; 1998 Remastered Version,A Real Live Dead One,11,1993-03-23,0.218,0.193,0.995,0,-3.579,1,0.223,0.00214,0.00165,0.773,172.855,237533,1993
+2 Minutes To Midnight - Live; 1998 Remastered Version,A Real Live Dead One,12,1993-03-23,0.295,0.263,0.996,9,-3.552,0,0.115,0.0116,0.00297,0.929,101.363,337400,1993
+Iron Maiden - Live; 1998 Remastered Version,A Real Live Dead One,10,1993-03-23,0.0797,0.278,0.998,7,-3.158,1,0.287,0.00451,0.000702,0.954,118.247,324600,1993
+Hallowed Be Thy Name - Live; 1998 Remastered Version,A Real Live Dead One,12,1993-03-23,0.218,0.315,0.994,4,-2.668,0,0.113,0.00105,0.132,0.638,119.886,471840,1993
+Be Quick Or Be Dead - Live; 1998 Remastered Version,A Real Live Dead One,11,1993-03-23,0.387,0.261,0.982,0,-6.335,1,0.194,0.000329,0.00622,0.877,132.984,196827,1993
+From Here To Eternity - Live; 1998 Remastered Version,A Real Live Dead One,11,1993-03-23,0.354,0.22,0.957,9,-6.12,1,0.105,0.0341,3.39e-06,0.709,155.756,259840,1993
+Can I Play With Madness - Live; 1998 Remastered Version,A Real Live Dead One,9,1993-03-23,0.319,0.27,0.954,2,-6.782,1,0.232,0.106,2.58e-05,0.94,78.304,282493,1993
+Wasting Love - Live; 1998 Remastered Version,A Real Live Dead One,13,1993-03-23,0.289,0.176,0.886,4,-5.77,0,0.0607,0.00453,0.000627,0.945,78.933,347800,1993
+Tailgunner - Live; 1998 Remastered Version,A Real Live Dead One,10,1993-03-23,0.302,0.223,0.994,11,-4.4,1,0.0782,0.000388,0.0754,0.946,109.233,249507,1993
+The Evil That Men Do - Live; 1998 Remastered Version,A Real Live Dead One,11,1993-03-23,0.149,0.229,0.972,4,-5.596,0,0.186,0.00338,0.154,0.73,88.505,325893,1993
+Afraid To Shoot Strangers - Live; 1998 Remastered Version,A Real Live Dead One,13,1993-03-23,0.189,0.173,0.855,6,-7.982,0,0.0788,0.00115,0.0804,0.877,160.139,407973,1993
+Bring Your Daughter...To The Slaughter - Live; 1998 Remastered Version,A Real Live Dead One,11,1993-03-23,0.504,0.24,0.974,9,-4.699,1,0.0794,0.000799,0.00435,0.863,161.983,317693,1993
+Be Quick or Be Dead - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),26,1993-01-01,0.209,0.235,0.991,5,-5.737,0,0.251,0.000142,0.249,0.923,133.666,233067,1993
+The Number of the Beast - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),24,1993-01-01,0.215,0.367,0.993,7,-3.702,1,0.0965,0.000243,0.00714,0.965,100.683,293933,1993
+Wrathchild - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),23,1993-01-01,0.517,0.431,0.996,2,-2.761,1,0.0671,0.000236,0.0257,0.864,107.126,174027,1993
+From Here to Eternity - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),23,1993-01-01,0.374,0.248,0.96,2,-5.846,1,0.244,0.00345,0.00192,0.903,159.696,284373,1993
+Can I Play With Madness - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),22,1993-01-01,0.359,0.249,0.99,2,-4.819,1,0.288,0.00202,0.000654,0.96,143.129,213027,1993
+Wasting Love - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),25,1993-01-01,0.347,0.206,0.884,4,-4.772,0,0.0856,0.0131,0.00563,0.953,79.416,336867,1993
+Tailgunner - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),22,1993-01-01,0.429,0.278,0.977,11,-4.153,1,0.0536,0.000278,0.226,0.966,109.156,247573,1993
+The Evil That Men Do - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),23,1993-01-01,0.0825,0.186,0.978,4,-4.955,0,0.405,0.0191,0.000634,0.936,174.64,471427,1993
+Afraid To Shoot Strangers - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),25,1993-01-01,0.338,0.295,0.916,6,-5.157,0,0.0694,0.000638,0.638,0.957,119.002,419067,1993
+Fear Of The Dark - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),27,1993-01-01,0.19,0.255,0.98,2,-4.821,0,0.253,0.00281,0.189,0.937,107.536,428173,1993
+Bring Your Daughter...To The Slaughter - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),25,1993-01-01,0.37,0.241,0.978,9,-4.194,1,0.121,0.00078,0.000843,0.929,157.839,372160,1993
+The Clairvoyant - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),23,1993-01-01,0.469,0.259,0.986,2,-4.142,0,0.0929,0.00327,0.117,0.546,99.631,261933,1993
+Heaven Can Wait - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),21,1993-01-01,0.326,0.28,0.992,2,-5.307,1,0.115,0.000511,0.101,0.943,108.612,440800,1993
+Run To The Hills - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),22,1993-01-01,0.176,0.228,0.994,0,-5.003,1,0.131,0.000664,0.076,0.968,170.313,256467,1993
+2 Minutes To Midnight - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),20,1993-01-01,0.163,0.274,0.998,9,-4.855,0,0.105,0.000359,0.167,0.977,103.741,342960,1993
+Iron Maiden - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),20,1993-01-01,0.0313,0.2,0.993,0,-5.637,1,0.148,0.0288,0.214,0.931,101.661,494600,1993
+Hallowed Be Thy Name - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),22,1993-01-01,0.187,0.303,0.985,4,-4.704,0,0.115,0.00126,0.236,0.874,119.002,447800,1993
+The Trooper - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),21,1993-01-01,0.469,0.235,0.993,4,-4.658,0,0.116,0.00113,0.241,0.435,175.13,232600,1993
+Sanctuary - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),19,1993-01-01,0.075,0.269,0.998,2,-4.793,1,0.233,0.00432,0.0301,0.925,111.996,318373,1993
+Running Free - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),19,1993-01-01,0.139,0.211,0.978,0,-5.633,1,0.323,0.0395,0.0672,0.811,186.912,474333,1993
+Be Quick or Be Dead - 2015 Remaster,Fear of the Dark (2015 - Remaster),42,1992-05-11,0.624,0.319,0.965,7,-4.354,0,0.0646,9.4e-05,0.00221,0.141,127.721,203653,1992
+From Here to Eternity - 2015 Remaster,Fear of the Dark (2015 - Remaster),32,1992-05-11,0.498,0.288,0.942,9,-4.669,1,0.0653,0.00161,0.00063,0.139,154.837,218133,1992
+Afraid to Shoot Strangers - 2015 Remaster,Fear of the Dark (2015 - Remaster),40,1992-05-11,0.366,0.279,0.817,6,-5.331,0,0.0458,0.00325,0.0346,0.0855,156.64,416560,1992
+Fear Is the Key - 2015 Remaster,Fear of the Dark (2015 - Remaster),28,1992-05-11,0.52,0.359,0.928,9,-4.157,0,0.0475,0.000469,0.000732,0.211,93.88,334813,1992
+Childhood's End - 2015 Remaster,Fear of the Dark (2015 - Remaster),28,1992-05-11,0.328,0.269,0.943,6,-4.71,0,0.0476,0.000119,0.0283,0.282,89.092,280893,1992
+Wasting Love - 2015 Remaster,Fear of the Dark (2015 - Remaster),48,1992-05-11,0.29,0.324,0.667,4,-5.373,0,0.0321,0.00562,3.56e-05,0.0873,142.503,351027,1992
+The Fugitive - 2015 Remaster,Fear of the Dark (2015 - Remaster),28,1992-05-11,0.578,0.311,0.942,2,-5.261,0,0.0374,0.00514,0.00324,0.656,89.929,293947,1992
+Chains of Misery - 2015 Remaster,Fear of the Dark (2015 - Remaster),28,1992-05-11,0.382,0.305,0.968,0,-3.669,1,0.0584,0.0018,1.33e-06,0.275,136.068,217307,1992
+The Apparition - 2015 Remaster,Fear of the Dark (2015 - Remaster),26,1992-05-11,0.693,0.592,0.929,9,-4.281,1,0.0378,0.000985,9.53e-05,0.0777,98.092,234787,1992
+Judas Be My Guide - 2015 Remaster,Fear of the Dark (2015 - Remaster),29,1992-05-11,0.51,0.261,0.957,2,-3.612,0,0.0573,0.000145,7.91e-06,0.0597,81.286,188800,1992
+Weekend Warrior - 2015 Remaster,Fear of the Dark (2015 - Remaster),26,1992-05-11,0.759,0.359,0.938,7,-4.606,1,0.0682,0.00707,0.0,0.296,135.054,339493,1992
+Fear of the Dark - 2015 Remaster,Fear of the Dark (2015 - Remaster),56,1992-05-11,0.227,0.308,0.866,2,-5.671,0,0.059,0.000739,0.00141,0.232,109.825,438120,1992
+Be Quick or Be Dead - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),13,1992-01-01,0.209,0.234,0.991,5,-5.737,0,0.254,0.00014,0.237,0.923,133.627,233067,1992
+The Number of the Beast - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),12,1992-01-01,0.21,0.35,0.993,7,-3.702,1,0.102,0.000239,0.00728,0.965,100.661,293933,1992
+Wrathchild - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),10,1992-01-01,0.517,0.432,0.996,2,-2.761,1,0.0671,0.000236,0.0256,0.864,107.131,174027,1992
+From Here to Eternity - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),10,1992-01-01,0.418,0.247,0.96,2,-5.85,1,0.245,0.00344,0.00199,0.903,159.686,284373,1992
+Can I Play With Madness - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),10,1992-01-01,0.358,0.249,0.99,7,-4.819,1,0.287,0.00202,0.00065,0.96,143.131,213027,1992
+Wasting Love - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),10,1992-01-01,0.343,0.201,0.885,4,-4.771,0,0.0943,0.0127,0.00575,0.953,76.752,336867,1992
+Tailgunner - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),11,1992-01-01,0.426,0.252,0.977,11,-4.153,1,0.0521,0.000274,0.227,0.966,108.612,247573,1992
+The Evil That Men Do - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),10,1992-01-01,0.0781,0.187,0.978,4,-4.955,0,0.435,0.0192,0.000609,0.936,174.653,471427,1992
+Afraid To Shoot Strangers - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),10,1992-01-01,0.336,0.295,0.916,6,-5.158,0,0.0698,0.000635,0.632,0.957,117.911,419067,1992
+Fear Of The Dark - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),14,1992-01-01,0.193,0.252,0.98,2,-4.821,0,0.232,0.0028,0.187,0.937,106.332,428173,1992
+Bring Your Daughter...To The Slaughter - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),12,1992-01-01,0.371,0.241,0.978,9,-4.194,1,0.12,0.000759,0.000837,0.929,157.838,372160,1992
+The Clairvoyant - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),9,1992-01-01,0.47,0.259,0.986,2,-4.142,0,0.0925,0.00323,0.116,0.546,99.633,261933,1992
+Heaven Can Wait - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),9,1992-01-01,0.326,0.304,0.992,2,-5.307,1,0.114,0.000504,0.099,0.942,107.994,440800,1992
+Run To The Hills - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),10,1992-01-01,0.176,0.228,0.994,0,-5.003,1,0.131,0.000673,0.0756,0.968,170.313,256467,1992
+2 Minutes To Midnight - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),9,1992-01-01,0.164,0.274,0.998,9,-4.855,0,0.105,0.000356,0.167,0.977,103.743,342960,1992
+Iron Maiden - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),8,1992-01-01,0.0314,0.171,0.993,0,-5.635,1,0.149,0.0289,0.205,0.931,93.409,494600,1992
+Hallowed Be Thy Name - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),10,1992-01-01,0.187,0.303,0.985,4,-4.704,0,0.117,0.00125,0.236,0.874,118.96,447800,1992
+The Trooper - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),9,1992-01-01,0.469,0.235,0.993,4,-4.658,0,0.116,0.00113,0.246,0.435,175.138,232600,1992
+Sanctuary - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),7,1992-01-01,0.0753,0.269,0.998,2,-4.793,1,0.234,0.00432,0.0302,0.925,111.997,318373,1992
+Running Free - Live at Donington; 1998 Remaster,Live at Donington (1998 Remaster),8,1992-01-01,0.139,0.209,0.978,0,-5.633,1,0.333,0.0394,0.0702,0.814,190.583,474333,1992
+Be Quick or Be Dead - 2015 Remaster,Fear of the Dark (2015 Remaster),56,1992-01-01,0.624,0.319,0.965,7,-4.354,0,0.0646,9.4e-05,0.00221,0.141,127.721,203653,1992
+From Here to Eternity - 2015 Remaster,Fear of the Dark (2015 Remaster),47,1992-01-01,0.498,0.288,0.942,9,-4.669,1,0.0653,0.00161,0.00063,0.139,154.837,218133,1992
+Afraid to Shoot Strangers - 2015 Remaster,Fear of the Dark (2015 Remaster),56,1992-01-01,0.366,0.279,0.817,6,-5.331,0,0.0458,0.00325,0.0346,0.0855,156.64,416560,1992
+Fear Is the Key - 2015 Remaster,Fear of the Dark (2015 Remaster),43,1992-01-01,0.52,0.359,0.928,9,-4.157,0,0.0475,0.000469,0.000732,0.211,93.88,334813,1992
+Childhood's End - 2015 Remaster,Fear of the Dark (2015 Remaster),44,1992-01-01,0.328,0.269,0.943,6,-4.71,0,0.0476,0.000119,0.0283,0.282,89.092,280893,1992
+Wasting Love - 2015 Remaster,Fear of the Dark (2015 Remaster),66,1992-01-01,0.29,0.324,0.667,4,-5.373,0,0.0321,0.00562,3.56e-05,0.0873,142.503,351027,1992
+The Fugitive - 2015 Remaster,Fear of the Dark (2015 Remaster),42,1992-01-01,0.578,0.311,0.942,2,-5.261,0,0.0374,0.00514,0.00324,0.656,89.929,293947,1992
+Chains of Misery - 2015 Remaster,Fear of the Dark (2015 Remaster),42,1992-01-01,0.382,0.305,0.968,0,-3.669,1,0.0584,0.0018,1.33e-06,0.275,136.068,217307,1992
+The Apparition - 2015 Remaster,Fear of the Dark (2015 Remaster),40,1992-01-01,0.693,0.592,0.929,9,-4.281,1,0.0378,0.000985,9.53e-05,0.0777,98.092,234787,1992
+Judas Be My Guide - 2015 Remaster,Fear of the Dark (2015 Remaster),44,1992-01-01,0.51,0.261,0.957,2,-3.612,0,0.0573,0.000145,7.91e-06,0.0597,81.286,188800,1992
+Weekend Warrior - 2015 Remaster,Fear of the Dark (2015 Remaster),41,1992-01-01,0.759,0.359,0.938,7,-4.606,1,0.0682,0.00707,0.0,0.296,135.054,339493,1992
+Fear of the Dark - 2015 Remaster,Fear of the Dark (2015 Remaster),72,1992-01-01,0.227,0.308,0.866,2,-5.671,0,0.059,0.000739,0.00141,0.232,109.825,438120,1992
+Tailgunner - 2015 Remaster,No Prayer for the Dying (2015 - Remaster),30,1990-10-01,0.577,0.373,0.946,11,-3.728,1,0.045,0.0475,0.000156,0.187,103.595,254133,1990
+Holy Smoke - 2015 Remaster,No Prayer for the Dying (2015 - Remaster),33,1990-10-01,0.474,0.243,0.983,2,-3.908,1,0.159,0.022,0.0,0.0451,165.51,229027,1990
+No Prayer for the Dying - 2015 Remaster,No Prayer for the Dying (2015 - Remaster),29,1990-10-01,0.583,0.272,0.925,4,-4.786,0,0.0898,0.034,0.00281,0.217,108.631,263213,1990
+Public Enema Number One - 2015 Remaster,No Prayer for the Dying (2015 - Remaster),25,1990-10-01,0.6,0.166,0.974,0,-4.29,1,0.106,0.0248,0.0,0.174,168.765,253600,1990
+Fates Warning - 2015 Remaster,No Prayer for the Dying (2015 - Remaster),24,1990-10-01,0.139,0.262,0.983,4,-3.986,0,0.262,0.0246,8.02e-06,0.0512,143.401,250507,1990
+The Assassin - 2015 Remaster,No Prayer for the Dying (2015 - Remaster),24,1990-10-01,0.599,0.272,0.967,0,-4.474,1,0.0618,0.0487,0.000932,0.233,97.89,257960,1990
+Run Silent Run Deep - 2015 Remaster,No Prayer for the Dying (2015 - Remaster),26,1990-10-01,0.406,0.324,0.914,4,-4.68,0,0.102,0.11,4.83e-06,0.107,116.741,274800,1990
+Hooks in You - 2015 Remaster,No Prayer for the Dying (2015 - Remaster),23,1990-10-01,0.544,0.186,0.95,9,-5.147,1,0.118,0.0392,2.17e-05,0.288,166.677,246933,1990
+Bring Your Daughter... to the Slaughter - 2015 Remaster,No Prayer for the Dying (2015 - Remaster),39,1990-10-01,0.532,0.281,0.916,9,-4.676,1,0.0655,0.0282,3.16e-06,0.157,146.645,283693,1990
+Mother Russia - 2015 Remaster,No Prayer for the Dying (2015 - Remaster),29,1990-10-01,0.39,0.296,0.859,2,-5.491,0,0.0457,0.365,0.0607,0.133,94.099,332000,1990
+Tailgunner - 2015 Remaster,No Prayer for the Dying (2015 Remaster),40,1990-10-01,0.577,0.373,0.946,11,-3.728,1,0.045,0.0475,0.000156,0.187,103.595,254133,1990
+Holy Smoke - 2015 Remaster,No Prayer for the Dying (2015 Remaster),45,1990-10-01,0.474,0.243,0.983,2,-3.908,1,0.159,0.022,0.0,0.0451,165.51,229027,1990
+No Prayer for the Dying - 2015 Remaster,No Prayer for the Dying (2015 Remaster),44,1990-10-01,0.583,0.272,0.925,4,-4.786,0,0.0898,0.034,0.00281,0.217,108.631,263213,1990
+Public Enema Number One - 2015 Remaster,No Prayer for the Dying (2015 Remaster),36,1990-10-01,0.6,0.166,0.974,0,-4.29,1,0.106,0.0248,0.0,0.174,168.765,253600,1990
+Fates Warning - 2015 Remaster,No Prayer for the Dying (2015 Remaster),34,1990-10-01,0.139,0.262,0.983,4,-3.986,0,0.262,0.0246,8.02e-06,0.0512,143.401,250507,1990
+The Assassin - 2015 Remaster,No Prayer for the Dying (2015 Remaster),35,1990-10-01,0.599,0.272,0.967,0,-4.474,1,0.0618,0.0487,0.000932,0.233,97.89,257960,1990
+Run Silent Run Deep - 2015 Remaster,No Prayer for the Dying (2015 Remaster),36,1990-10-01,0.406,0.324,0.914,4,-4.68,0,0.102,0.11,4.83e-06,0.107,116.741,274800,1990
+Hooks in You - 2015 Remaster,No Prayer for the Dying (2015 Remaster),34,1990-10-01,0.544,0.186,0.95,9,-5.147,1,0.118,0.0392,2.17e-05,0.288,166.677,246933,1990
+Bring Your Daughter... to the Slaughter - 2015 Remaster,No Prayer for the Dying (2015 Remaster),51,1990-10-01,0.532,0.281,0.916,9,-4.676,1,0.0655,0.0282,3.16e-06,0.157,146.645,283693,1990
+Mother Russia - 2015 Remaster,No Prayer for the Dying (2015 Remaster),42,1990-10-01,0.39,0.296,0.859,2,-5.491,0,0.0457,0.365,0.0607,0.133,94.099,332000,1990
+Moonchild - 2015 Remaster,Seventh Son of a Seventh Son (2015 - Remaster),39,1988-04-11,0.244,0.266,0.96,9,-5.108,1,0.188,0.0716,2.84e-06,0.232,129.706,340573,1988
+Infinite Dreams - 2015 Remaster,Seventh Son of a Seventh Son (2015 - Remaster),37,1988-04-11,0.659,0.196,0.962,4,-4.533,0,0.0955,0.0269,4.39e-05,0.148,78.783,369373,1988
+Can I Play with Madness - 2015 Remaster,Seventh Son of a Seventh Son (2015 - Remaster),46,1988-04-11,0.631,0.313,0.981,2,-3.491,1,0.0981,0.0891,0.0,0.264,140.56,211253,1988
+The Evil That Men Do - 2015 Remaster,Seventh Son of a Seventh Son (2015 - Remaster),45,1988-04-11,0.31,0.255,0.977,4,-4.672,0,0.11,0.00852,2.8e-06,0.0776,161.738,274213,1988
+Seventh Son of a Seventh Son - 2015 Remaster,Seventh Son of a Seventh Son (2015 - Remaster),41,1988-04-11,0.0948,0.243,0.872,4,-6.058,0,0.0523,0.164,0.0175,0.158,105.828,594080,1988
+The Prophecy - 2015 Remaster,Seventh Son of a Seventh Son (2015 - Remaster),33,1988-04-11,0.21,0.264,0.828,2,-6.195,0,0.0479,0.208,7.4e-05,0.133,142.589,305760,1988
+The Clairvoyant - 2015 Remaster,Seventh Son of a Seventh Son (2015 - Remaster),36,1988-04-11,0.467,0.374,0.944,7,-3.746,1,0.106,0.0623,2.13e-05,0.171,102.195,267293,1988
+Only the Good Die Young - 2015 Remaster,Seventh Son of a Seventh Son (2015 - Remaster),35,1988-04-11,0.275,0.18,0.975,4,-3.968,0,0.184,0.118,0.0,0.223,172.063,282747,1988
+"Moonchild - Live at Birmingham NEC, 1988; 2013 Remaster",Maiden England '88,17,1988-01-01,0.154,0.235,0.988,9,-3.687,1,0.274,0.0638,0.00119,0.956,130.002,383027,1988
+"The Evil That Men Do - Live at Birmingham NEC, 1988; 2013 Remaster",Maiden England '88,19,1988-01-01,0.166,0.24,0.994,4,-2.514,0,0.125,0.0529,1.14e-05,0.936,87.387,257787,1988
+"The Prisoner - Live at Birmingham NEC, 1988; 2013 Remaster",Maiden England '88,17,1988-01-01,0.298,0.338,0.991,9,-3.332,1,0.0979,0.0985,0.00191,0.978,107.825,359720,1988
+"Still Life - Live at Birmingham NEC, 1988; 2013 Remaster",Maiden England '88,15,1988-01-01,0.172,0.213,0.982,9,-3.813,0,0.418,0.225,0.000166,0.953,84.688,271987,1988
+"Die with Your Boots On - Live Birmingham NEC, 1988; 2013 Remaster",Maiden England '88,16,1988-01-01,0.202,0.278,0.996,4,-2.984,0,0.199,0.117,0.0,0.941,93.077,318920,1988
+"Infinite Dreams - Live at Birmingham NEC, 1988; 2013 Remaster",Maiden England '88,17,1988-01-01,0.381,0.199,0.99,4,-3.345,0,0.14,0.146,0.000416,0.894,84.136,352987,1988
+"Killers - Live at Birmingham NEC, 1988; 2013 Remaster",Maiden England '88,17,1988-01-01,0.175,0.18,0.995,4,-3.083,0,0.274,0.0965,0.00167,0.925,179.475,296813,1988
+Can I Play with Madness - Live at Birmingham NEC; 1988; 2013 Remaster,Maiden England '88,16,1988-01-01,0.344,0.267,0.992,7,-3.223,1,0.241,0.212,3.12e-06,0.656,145.357,205200,1988
+"Heaven Can Wait - Live at Birmingham NEC, 1988; 2013 Remaster",Maiden England '88,13,1988-01-01,0.185,0.261,0.995,7,-4.061,1,0.143,0.138,0.000837,0.724,106.67,462547,1988
+"Wasted Years - Live at Birmingham NEC, 1988; 2013 Remaster",Maiden England '88,17,1988-01-01,0.201,0.158,0.985,9,-3.308,1,0.116,0.0394,1.42e-06,0.919,83.296,305760,1988
+"The Clairvoyant - Live at Birmingham NEC, 1988; 2013 Remaster",Maiden England '88,14,1988-01-01,0.369,0.259,0.992,7,-3.138,1,0.122,0.216,6.37e-05,0.956,103.278,269960,1988
+"Seventh Son of a Seventh Son - Live at Birmingham NEC, 1988; 2013 Remaster",Maiden England '88,16,1988-01-01,0.0972,0.24,0.949,4,-4.568,0,0.0746,0.0942,0.292,0.78,113.32,608480,1988
+"The Number of the Beast - Live at Birmingham NEC, 1988; 2013 Remaster",Maiden England '88,15,1988-01-01,0.235,0.237,0.99,7,-3.677,1,0.137,0.0989,9.02e-05,0.965,102.661,287173,1988
+"Hallowed Be Thy Name - Live at Birmingham NEC, 1988; 2013 Remaster",Maiden England '88,16,1988-01-01,0.195,0.26,0.989,4,-3.461,0,0.144,0.113,0.00357,0.73,117.638,441627,1988
+"Iron Maiden - Live at Birmingham NEC, 1988; 2013 Remaster",Maiden England '88,12,1988-01-01,0.142,0.164,0.992,7,-4.178,1,0.154,0.2,0.000149,0.955,91.18,311547,1988
+"Run to the Hills - Live at Birmingham NEC, 1988; 2013 Remaster",Maiden England '88,22,1988-01-01,0.213,0.147,0.993,5,-2.491,1,0.173,0.0401,4.21e-05,0.663,175.018,241720,1988
+"Running Free - Live at Birmingham NEC, 1988; 2013 Remaster",Maiden England '88,13,1988-01-01,0.203,0.338,0.994,4,-3.02,0,0.212,0.048,0.000868,0.643,101.83,333867,1988
+"Sanctuary - Live at Birmingham NEC, 1988; 2013 Remaster",Maiden England '88,18,1988-01-01,0.107,0.223,0.997,7,-2.908,1,0.189,0.139,0.0713,0.949,136.085,324933,1988
+Moonchild - 2015 Remaster,Seventh Son of a Seventh Son (2015 Remaster),50,1988-01-01,0.244,0.266,0.96,9,-5.108,1,0.188,0.0716,2.84e-06,0.232,129.706,340573,1988
+Infinite Dreams - 2015 Remaster,Seventh Son of a Seventh Son (2015 Remaster),48,1988-01-01,0.659,0.196,0.962,4,-4.533,0,0.0955,0.0269,4.39e-05,0.148,78.783,369373,1988
+Can I Play with Madness - 2015 Remaster,Seventh Son of a Seventh Son (2015 Remaster),59,1988-01-01,0.631,0.313,0.981,2,-3.491,1,0.0981,0.0891,0.0,0.264,140.56,211253,1988
+The Evil That Men Do - 2015 Remaster,Seventh Son of a Seventh Son (2015 Remaster),57,1988-01-01,0.31,0.255,0.977,4,-4.672,0,0.11,0.00852,2.8e-06,0.0776,161.738,274213,1988
+Seventh Son of a Seventh Son - 2015 Remaster,Seventh Son of a Seventh Son (2015 Remaster),53,1988-01-01,0.0948,0.243,0.872,4,-6.058,0,0.0523,0.164,0.0175,0.158,105.828,594080,1988
+The Prophecy - 2015 Remaster,Seventh Son of a Seventh Son (2015 Remaster),44,1988-01-01,0.21,0.264,0.828,2,-6.195,0,0.0479,0.208,7.4e-05,0.133,142.589,305760,1988
+The Clairvoyant - 2015 Remaster,Seventh Son of a Seventh Son (2015 Remaster),48,1988-01-01,0.467,0.374,0.944,7,-3.746,1,0.106,0.0623,2.13e-05,0.171,102.195,267293,1988
+Only the Good Die Young - 2015 Remaster,Seventh Son of a Seventh Son (2015 Remaster),46,1988-01-01,0.275,0.18,0.975,4,-3.968,0,0.184,0.118,0.0,0.223,172.063,282747,1988
+Caught Somewhere in Time - 2015 Remaster,Somewhere in Time (2015 - Remaster),42,1986-09-29,0.343,0.238,0.987,4,-4.408,0,0.168,0.00218,0.0175,0.107,174.124,447333,1986
+Wasted Years - 2015 Remaster,Somewhere in Time (2015 - Remaster),55,1986-09-29,0.492,0.314,0.959,4,-4.657,0,0.0908,0.0263,0.000148,0.161,154.221,309640,1986
+Sea of Madness - 2015 Remaster,Somewhere in Time (2015 - Remaster),35,1986-09-29,0.276,0.328,0.985,11,-5.04,0,0.0926,0.0147,0.000274,0.143,144.413,344027,1986
+Heaven Can Wait - 2015 Remaster,Somewhere in Time (2015 - Remaster),36,1986-09-29,0.476,0.302,0.982,7,-3.901,1,0.0893,0.0221,0.00267,0.104,107.218,443600,1986
+The Loneliness of the Long Distance Runner - 2015 Remaster,Somewhere in Time (2015 - Remaster),35,1986-09-29,0.447,0.189,0.991,4,-4.332,0,0.15,0.00148,0.199,0.137,185.156,393293,1986
+Stranger in a Strange Land - 2015 Remaster,Somewhere in Time (2015 - Remaster),42,1986-09-29,0.514,0.286,0.913,9,-5.047,1,0.0662,0.155,0.00102,0.0985,109.698,346667,1986
+Deja Vu - 2015 Remaster,Somewhere in Time (2015 - Remaster),35,1986-09-29,0.563,0.208,0.981,5,-4.341,0,0.112,0.00308,0.0271,0.0836,189.523,298520,1986
+Alexander the Great (356-323 B.C.) - 2015 Remaster,Somewhere in Time (2015 - Remaster),41,1986-09-29,0.288,0.454,0.944,4,-5.003,0,0.0849,0.084,0.0119,0.11,113.321,517093,1986
+Caught Somewhere in Time - 2015 Remaster,Somewhere in Time (2015 Remaster),53,1986-01-01,0.343,0.238,0.987,4,-4.408,0,0.168,0.00218,0.0175,0.107,174.124,447333,1986
+Wasted Years - 2015 Remaster,Somewhere in Time (2015 Remaster),66,1986-01-01,0.492,0.314,0.959,4,-4.657,0,0.0908,0.0263,0.000148,0.161,154.221,309640,1986
+Sea of Madness - 2015 Remaster,Somewhere in Time (2015 Remaster),45,1986-01-01,0.276,0.328,0.985,11,-5.04,0,0.0926,0.0147,0.000274,0.143,144.413,344027,1986
+Heaven Can Wait - 2015 Remaster,Somewhere in Time (2015 Remaster),46,1986-01-01,0.476,0.302,0.982,7,-3.901,1,0.0893,0.0221,0.00267,0.104,107.218,443600,1986
+The Loneliness of the Long Distance Runner - 2015 Remaster,Somewhere in Time (2015 Remaster),45,1986-01-01,0.447,0.189,0.991,4,-4.332,0,0.15,0.00148,0.199,0.137,185.156,393293,1986
+Stranger in a Strange Land - 2015 Remaster,Somewhere in Time (2015 Remaster),51,1986-01-01,0.514,0.286,0.913,9,-5.047,1,0.0662,0.155,0.00102,0.0985,109.698,346667,1986
+Deja Vu - 2015 Remaster,Somewhere in Time (2015 Remaster),44,1986-01-01,0.563,0.208,0.981,5,-4.341,0,0.112,0.00308,0.0271,0.0836,189.523,298520,1986
+Alexander the Great (356-323 B.C.) - 2015 Remaster,Somewhere in Time (2015 Remaster),53,1986-01-01,0.288,0.454,0.944,4,-5.003,0,0.0849,0.084,0.0119,0.11,113.321,517093,1986
+Intro (Churchill's Speech) - Live at Long Beach Arena; 1998 Remaster,Live After Death (1998 Remaster),27,1985-10-14,0.446,0.16,0.581,5,-17.716,0,0.111,0.032,0.672,0.867,173.241,49493,1985
+Aces High - Live Long Beach Arena; 1998 Remastered Version,Live After Death (1998 Remaster),30,1985-10-14,0.332,0.239,0.977,9,-7.383,1,0.074,0.00365,0.903,0.361,132.463,276600,1985
+2 Minutes to Midnight - Live at Long Beach Arena; 1998 Remaster,Live After Death (1998 Remaster),29,1985-10-14,0.494,0.222,0.971,2,-6.987,1,0.0915,0.0225,0.689,0.97,92.487,363293,1985
+The Trooper - Live at Long Beach Arena; 1998 Remaster,Live After Death (1998 Remaster),27,1985-10-14,0.48,0.21,0.977,9,-6.807,1,0.139,0.0106,0.527,0.969,172.199,254107,1985
+Revelations - Live at Long Beach Arena; 1998 Remaster,Live After Death (1998 Remaster),25,1985-10-14,0.422,0.194,0.956,9,-7.545,0,0.0966,0.00539,0.159,0.729,85.883,361107,1985
+Flight of Icarus - Live at Long Beach Arena; 1998 Remaster,Live After Death (1998 Remaster),25,1985-10-14,0.326,0.256,0.971,6,-6.508,0,0.102,0.00747,0.161,0.97,130.314,208000,1985
+Rime of the Ancient Mariner - Live at Long Beach Arena; 1998 Remaster,Live After Death (1998 Remaster),26,1985-10-14,0.171,0.274,0.925,9,-7.93,0,0.192,0.0521,0.241,0.969,123.144,798560,1985
+Powerslave - Live at Long Beach Arena; 1998 Remaster,Live After Death (1998 Remaster),24,1985-10-14,0.293,0.201,0.973,9,-7.251,1,0.0982,0.0204,0.232,0.95,142.741,433040,1985
+The Number of the Beast - Live at Long Beach Arena; 1998 Remaster,Live After Death (1998 Remaster),23,1985-10-14,0.358,0.274,0.948,7,-7.13,1,0.0701,0.0646,0.32,0.894,98.493,293400,1985
+Hallowed Be Thy Name - Live at Long Beach Arena; 1998 Remaster,Live After Death (1998 Remaster),26,1985-10-14,0.371,0.371,0.889,4,-8.416,0,0.0567,0.00747,0.301,0.44,115.712,432733,1985
+Iron Maiden - Live at Long Beach Arena; 1998 Remaster,Live After Death (1998 Remaster),26,1985-10-14,0.425,0.253,0.955,2,-7.804,1,0.0806,0.0158,0.746,0.962,98.843,260360,1985
+Run to the Hills - Live at Long Beach Arena; 1998 Remaster,Live After Death (1998 Remaster),23,1985-10-14,0.254,0.175,0.969,0,-7.831,1,0.0639,0.0123,0.29,0.488,168.293,234440,1985
+Running Free - Live at Long Beach Arena; 1998 Remaster,Live After Death (1998 Remaster),26,1985-10-14,0.476,0.37,0.918,0,-9.133,1,0.0467,0.0511,0.0163,0.925,101.032,523133,1985
+Wrathchild - Live at the Hammersmith Odeon; 1998 Remaster,Live After Death (1998 Remaster),25,1985-10-14,0.365,0.454,0.975,4,-9.397,0,0.0497,0.00189,0.863,0.991,103.947,185707,1985
+22 Acacia Avenue - Live at the Hammersmith Odeon; 1998 Remaster,Live After Death (1998 Remaster),22,1985-10-14,0.296,0.179,0.959,4,-8.3,0,0.0913,0.00912,0.631,0.978,162.86,378387,1985
+Children of the Damned - Live at the Hammersmith Odeon; 1998 Remaster,Live After Death (1998 Remaster),21,1985-10-14,0.258,0.16,0.945,4,-8.314,0,0.0964,0.00222,0.0782,0.976,195.659,276227,1985
+Die with Your Boots On - Live at the Hammersmith Odeon; 1998 Remaster,Live After Death (1998 Remaster),21,1985-10-14,0.504,0.213,0.976,0,-8.383,1,0.125,0.00566,0.257,0.976,193.583,312413,1985
+Phantom of the Opera - Live at the Hammersmith Odeon; 1998 Remaster,Live After Death (1998 Remaster),24,1985-10-14,0.451,0.192,0.959,4,-7.348,0,0.0868,0.00113,0.764,0.964,174.93,441640,1985
+Intro (Churchill's Speech) - Live at Long Beach Arena; 1998 Remaster,Live After Death (1998 Remaster),35,1985-01-01,0.418,0.318,0.576,5,-18.181,0,0.101,0.0517,0.706,0.829,96.43,49573,1985
+Aces High - Live; 1998 Remaster,Live After Death (1998 Remaster),39,1985-01-01,0.388,0.237,0.973,9,-7.893,1,0.0637,0.00347,0.902,0.334,132.411,278413,1985
+2 Minutes to Midnight - Live at Long Beach Arena; 1998 Remaster,Live After Death (1998 Remaster),40,1985-01-01,0.597,0.195,0.961,9,-7.025,1,0.0919,0.0239,0.7,0.965,94.939,363306,1985
+The Trooper - Live at Long Beach Arena; 1998 Remaster,Live After Death (1998 Remaster),37,1985-01-01,0.417,0.194,0.973,9,-6.938,1,0.159,0.0168,0.567,0.823,172.199,271813,1985
+Revelations - Live at Long Beach Arena; 1998 Remaster,Live After Death (1998 Remaster),36,1985-01-01,0.51,0.2,0.95,2,-7.577,1,0.093,0.00745,0.129,0.968,88.689,371453,1985
+Flight of Icarus - Live at Long Beach Arena; 1998 Remaster,Live After Death (1998 Remaster),36,1985-01-01,0.403,0.255,0.964,6,-6.47,0,0.0852,0.00601,0.192,0.97,131.181,208013,1985
+Rime of the Ancient Mariner - Live at Long Beach Arena; 1998 Remaster,Live After Death (1998 Remaster),37,1985-01-01,0.175,0.278,0.92,9,-7.908,0,0.168,0.0501,0.241,0.968,122.742,798573,1985
+Powerslave - Live at Long Beach Arena; 1998 Remaster,Live After Death (1998 Remaster),35,1985-01-01,0.34,0.198,0.973,9,-7.238,1,0.0874,0.0193,0.309,0.936,143.61,433053,1985
+The Number of the Beast - Live at Long Beach Arena; 1998 Remaster,Live After Death (1998 Remaster),34,1985-01-01,0.45,0.314,0.944,7,-7.113,1,0.0596,0.064,0.369,0.89,98.512,293413,1985
+Hallowed Be Thy Name - Live at Long Beach Arena; 1998 Remaster,Live After Death (1998 Remaster),37,1985-01-01,0.378,0.375,0.89,4,-8.459,0,0.0567,0.00923,0.301,0.961,115.858,441680,1985
+Iron Maiden - Live at Long Beach Arena; 1998 Remaster,Live After Death (1998 Remaster),36,1985-01-01,0.425,0.253,0.955,2,-7.804,1,0.0806,0.0158,0.746,0.962,98.843,260360,1985
+Run to the Hills - Live at Long Beach Arena; 1998 Remaster,Live After Death (1998 Remaster),33,1985-01-01,0.339,0.178,0.957,0,-7.816,1,0.0581,0.012,0.3,0.473,168.438,234453,1985
+Running Free - Live at Long Beach Arena; 1998 Remaster,Live After Death (1998 Remaster),39,1985-01-01,0.481,0.368,0.919,0,-9.142,1,0.0458,0.0542,0.0103,0.943,100.775,523146,1985
+Wrathchild - Live at the Hammersmith Odeon; 1998 Remaster,Live After Death (1998 Remaster),35,1985-01-01,0.357,0.466,0.968,0,-9.423,1,0.0499,0.00204,0.887,0.976,103.989,184133,1985
+22 Acacia Avenue - Live at the Hammersmith Odeon; 1998 Remaster,Live After Death (1998 Remaster),33,1985-01-01,0.361,0.182,0.961,4,-8.266,0,0.0862,0.00932,0.588,0.969,161.449,378413,1985
+Children of the Damned - Live at the Hammersmith Odeon; 1998 Remaster,Live After Death (1998 Remaster),32,1985-01-01,0.319,0.155,0.932,4,-8.319,0,0.0909,0.00291,0.0622,0.976,196.691,276280,1985
+Die with Your Boots On - Live at the Hammersmith Odeon; 1998 Remaster,Live After Death (1998 Remaster),31,1985-01-01,0.496,0.232,0.976,0,-8.406,1,0.109,0.00648,0.264,0.972,193.871,312413,1985
+Phantom of the Opera - Live at the Hammersmith Odeon; 1998 Remaster,Live After Death (1998 Remaster),39,1985-01-01,0.475,0.191,0.96,4,-7.417,0,0.08,0.00105,0.757,0.908,174.836,429533,1985
+Aces High - 2015 Remaster,Powerslave (2015 - Remaster),53,1984-09-03,0.756,0.3,0.936,2,-5.399,1,0.0456,0.0337,0.021,0.158,133.065,271907,1984
+2 Minutes to Midnight - 2015 Remaster,Powerslave (2015 - Remaster),56,1984-09-03,0.595,0.446,0.97,9,-5.004,0,0.0508,0.00754,0.000275,0.199,94.233,363587,1984
+Losfer Words (Big 'Orra) - 2015 Remaster,Powerslave (2015 - Remaster),38,1984-09-03,0.579,0.354,0.98,7,-5.028,1,0.0502,0.000785,0.858,0.173,154.623,255373,1984
+Flash of the Blade - 2015 Remaster,Powerslave (2015 - Remaster),40,1984-09-03,0.653,0.392,0.963,7,-4.826,1,0.0469,0.00854,0.00234,0.228,110.695,245573,1984
+The Duellists - 2015 Remaster,Powerslave (2015 - Remaster),38,1984-09-03,0.633,0.345,0.971,2,-5.317,1,0.0465,0.0112,0.249,0.418,80.125,368013,1984
+Back in the Village - 2015 Remaster,Powerslave (2015 - Remaster),37,1984-09-03,0.551,0.347,0.98,7,-4.614,1,0.0706,0.00261,0.000302,0.246,131.791,302880,1984
+Powerslave - 2015 Remaster,Powerslave (2015 - Remaster),46,1984-09-03,0.331,0.3,0.974,11,-5.341,0,0.104,0.0289,0.0492,0.242,136.138,431520,1984
+Rime of the Ancient Mariner - 2015 Remaster,Powerslave (2015 - Remaster),46,1984-09-03,0.143,0.39,0.932,2,-6.558,1,0.0666,0.0986,0.00961,0.322,112.034,818693,1984
+Aces High - 2015 Remaster,Powerslave (2015 Remaster),64,1984-01-01,0.756,0.3,0.936,2,-5.399,1,0.0456,0.0337,0.021,0.158,133.065,271907,1984
+2 Minutes to Midnight - 2015 Remaster,Powerslave (2015 Remaster),66,1984-01-01,0.595,0.446,0.97,9,-5.004,0,0.0508,0.00754,0.000275,0.199,94.233,363587,1984
+Losfer Words (Big 'Orra) - 2015 Remaster,Powerslave (2015 Remaster),45,1984-01-01,0.579,0.354,0.98,7,-5.028,1,0.0502,0.000785,0.858,0.173,154.623,255373,1984
+Flash of the Blade - 2015 Remaster,Powerslave (2015 Remaster),47,1984-01-01,0.653,0.392,0.963,7,-4.826,1,0.0469,0.00854,0.00234,0.228,110.695,245573,1984
+The Duellists - 2015 Remaster,Powerslave (2015 Remaster),45,1984-01-01,0.633,0.345,0.971,2,-5.317,1,0.0465,0.0112,0.249,0.418,80.125,368013,1984
+Back in the Village - 2015 Remaster,Powerslave (2015 Remaster),44,1984-01-01,0.551,0.347,0.98,7,-4.614,1,0.0706,0.00261,0.000302,0.246,131.791,302880,1984
+Powerslave - 2015 Remaster,Powerslave (2015 Remaster),55,1984-01-01,0.331,0.3,0.974,11,-5.341,0,0.104,0.0289,0.0492,0.242,136.138,431520,1984
+Rime of the Ancient Mariner - 2015 Remaster,Powerslave (2015 Remaster),55,1984-01-01,0.143,0.39,0.932,2,-6.558,1,0.0666,0.0986,0.00961,0.322,112.034,818693,1984
+Where Eagles Dare - 2015 Remaster,Piece of Mind (2015 - Remaster),46,1983-05-16,0.467,0.407,0.965,4,-5.292,0,0.0944,0.0259,0.219,0.156,112.891,372760,1983
+Revelations - 2015 Remaster,Piece of Mind (2015 - Remaster),43,1983-05-16,0.438,0.304,0.845,2,-5.632,1,0.0788,0.189,0.00106,0.344,90.374,409627,1983
+Flight of Icarus - 2015 Remaster,Piece of Mind (2015 - Remaster),48,1983-05-16,0.343,0.368,0.917,6,-4.829,0,0.0772,0.147,0.000121,0.169,110.455,230760,1983
+Die with Your Boots On - 2015 Remaster,Piece of Mind (2015 - Remaster),41,1983-05-16,0.537,0.245,0.947,5,-5.026,1,0.114,0.406,1.21e-06,0.272,174.78,327253,1983
+The Trooper - 2015 Remaster,Piece of Mind (2015 - Remaster),64,1983-05-16,0.669,0.285,0.908,4,-4.601,0,0.0705,0.0318,0.00909,0.311,159.756,252733,1983
+Still Life - 2015 Remaster,Piece of Mind (2015 - Remaster),37,1983-05-16,0.173,0.241,0.827,9,-6.148,0,0.19,0.242,4.67e-05,0.559,158.996,297013,1983
+Quest for Fire - 2015 Remaster,Piece of Mind (2015 - Remaster),35,1983-05-16,0.583,0.371,0.894,4,-4.68,0,0.0496,0.159,3.13e-06,0.2,124.614,222653,1983
+Sun and Steel - 2015 Remaster,Piece of Mind (2015 - Remaster),36,1983-05-16,0.643,0.295,0.921,2,-5.343,1,0.119,0.244,1.95e-06,0.172,168.683,207507,1983
+To Tame a Land - 2015 Remaster,Piece of Mind (2015 - Remaster),36,1983-05-16,0.229,0.233,0.864,4,-6.188,0,0.0465,0.467,0.345,0.143,95.853,448747,1983
+Where Eagles Dare - 2015 Remaster,Piece of Mind (2015 Remaster),54,1983-01-01,0.467,0.407,0.965,4,-5.292,0,0.0944,0.0259,0.219,0.156,112.891,372760,1983
+Revelations - 2015 Remaster,Piece of Mind (2015 Remaster),53,1983-01-01,0.438,0.304,0.845,2,-5.632,1,0.0788,0.189,0.00106,0.344,90.374,409627,1983
+Flight of Icarus - 2015 Remaster,Piece of Mind (2015 Remaster),58,1983-01-01,0.343,0.368,0.917,6,-4.829,0,0.0772,0.147,0.000121,0.169,110.455,230760,1983
+Die with Your Boots On - 2015 Remaster,Piece of Mind (2015 Remaster),47,1983-01-01,0.537,0.245,0.947,5,-5.026,1,0.114,0.406,1.21e-06,0.272,174.78,327253,1983
+The Trooper - 2015 Remaster,Piece of Mind (2015 Remaster),75,1983-01-01,0.669,0.285,0.908,4,-4.601,0,0.0705,0.0318,0.00909,0.311,159.756,252733,1983
+Still Life - 2015 Remaster,Piece of Mind (2015 Remaster),44,1983-01-01,0.173,0.241,0.827,9,-6.148,0,0.19,0.242,4.67e-05,0.559,158.996,297013,1983
+Quest for Fire - 2015 Remaster,Piece of Mind (2015 Remaster),43,1983-01-01,0.583,0.371,0.894,4,-4.68,0,0.0496,0.159,3.13e-06,0.2,124.614,222653,1983
+Sun and Steel - 2015 Remaster,Piece of Mind (2015 Remaster),43,1983-01-01,0.643,0.295,0.921,2,-5.343,1,0.119,0.244,1.95e-06,0.172,168.683,207507,1983
+To Tame a Land - 2015 Remaster,Piece of Mind (2015 Remaster),44,1983-01-01,0.229,0.233,0.864,4,-6.188,0,0.0465,0.467,0.345,0.143,95.853,448747,1983
+Invaders - 2015 Remaster,The Number of the Beast (2015 - Remaster),40,1982-03-22,0.684,0.439,0.937,4,-5.41,0,0.0493,0.0175,0.0252,0.496,111.794,203387,1982
+Children of the Damned - 2015 Remaster,The Number of the Beast (2015 - Remaster),45,1982-03-22,0.363,0.286,0.775,4,-6.607,0,0.0335,0.0233,0.177,0.12,96.707,275280,1982
+The Prisoner - 2015 Remaster,The Number of the Beast (2015 - Remaster),44,1982-03-22,0.617,0.306,0.88,9,-5.535,1,0.0485,0.0128,0.653,0.0964,106.964,362520,1982
+22 Acacia Avenue - 2015 Remaster,The Number of the Beast (2015 - Remaster),43,1982-03-22,0.544,0.305,0.907,0,-5.866,1,0.0619,0.0359,0.0593,0.102,112.737,396760,1982
+The Number of the Beast - 2015 Remaster,The Number of the Beast (2015 - Remaster),58,1982-03-22,0.268,0.409,0.89,0,-6.839,1,0.0558,0.088,0.107,0.0935,100.409,290587,1982
+Run to the Hills - 2015 Remaster,The Number of the Beast (2015 - Remaster),61,1982-03-22,0.458,0.249,0.943,0,-5.188,1,0.0669,0.0286,0.00401,0.162,173.671,233507,1982
+Gangland - 2015 Remaster,The Number of the Beast (2015 - Remaster),37,1982-03-22,0.448,0.277,0.939,2,-5.199,0,0.0716,0.0138,0.0452,0.0513,123.699,229120,1982
+Hallowed Be Thy Name - 2015 Remaster,The Number of the Beast (2015 - Remaster),56,1982-03-22,0.3,0.313,0.882,0,-6.215,1,0.0355,0.0346,0.338,0.45,103.981,431093,1982
+Invaders - 2015 Remaster,The Number of the Beast (2015 Remaster),49,1982-01-01,0.684,0.439,0.937,4,-5.41,0,0.0493,0.0175,0.0252,0.496,111.794,203387,1982
+Children of the Damned - 2015 Remaster,The Number of the Beast (2015 Remaster),56,1982-01-01,0.363,0.286,0.775,4,-6.607,0,0.0335,0.0233,0.177,0.12,96.707,275280,1982
+The Prisoner - 2015 Remaster,The Number of the Beast (2015 Remaster),53,1982-01-01,0.617,0.306,0.88,9,-5.535,1,0.0485,0.0128,0.653,0.0964,106.964,362520,1982
+22 Acacia Avenue - 2015 Remaster,The Number of the Beast (2015 Remaster),53,1982-01-01,0.544,0.305,0.907,0,-5.866,1,0.0619,0.0359,0.0593,0.102,112.737,396760,1982
+The Number of the Beast - 2015 Remaster,The Number of the Beast (2015 Remaster),69,1982-01-01,0.268,0.409,0.89,0,-6.839,1,0.0558,0.088,0.107,0.0935,100.409,290587,1982
+Run to the Hills - 2015 Remaster,The Number of the Beast (2015 Remaster),72,1982-01-01,0.458,0.249,0.943,0,-5.188,1,0.0669,0.0286,0.00401,0.162,173.671,233507,1982
+Gangland - 2015 Remaster,The Number of the Beast (2015 Remaster),45,1982-01-01,0.448,0.277,0.939,2,-5.199,0,0.0716,0.0138,0.0452,0.0513,123.699,229120,1982
+Hallowed Be Thy Name - 2015 Remaster,The Number of the Beast (2015 Remaster),67,1982-01-01,0.3,0.313,0.882,0,-6.215,1,0.0355,0.0346,0.338,0.45,103.981,431093,1982
+The Ides of March - 2015 Remaster,Killers (2015 - Remaster),34,1981-02-02,0.333,0.296,0.744,9,-6.064,1,0.0366,0.00402,0.877,0.121,97.328,105267,1981
+Wrathchild - 2015 Remaster,Killers (2015 - Remaster),44,1981-02-02,0.782,0.438,0.93,9,-4.959,1,0.0484,0.0188,0.349,0.196,104.812,175053,1981
+Murders in the Rue Morgue - 2015 Remaster,Killers (2015 - Remaster),37,1981-02-02,0.425,0.272,0.925,9,-6.126,1,0.0545,0.00356,0.00198,0.0742,106.505,258880,1981
+Another Life - 2015 Remaster,Killers (2015 - Remaster),33,1981-02-02,0.666,0.201,0.959,2,-5.13,1,0.14,0.00113,0.422,0.177,184.314,203507,1981
+Genghis Khan - 2015 Remaster,Killers (2015 - Remaster),34,1981-02-02,0.557,0.291,0.894,0,-7.223,1,0.0454,0.000149,0.887,0.11,112.897,187547,1981
+Innocent Exile - 2015 Remaster,Killers (2015 - Remaster),32,1981-02-02,0.652,0.257,0.937,0,-5.195,1,0.0693,0.00119,0.507,0.184,101.224,233067,1981
+Killers - 2015 Remaster,Killers (2015 - Remaster),42,1981-02-02,0.395,0.219,0.939,9,-5.333,1,0.0935,0.00547,0.00149,0.0529,83.739,301667,1981
+Prodigal Son - 2015 Remaster,Killers (2015 - Remaster),32,1981-02-02,0.317,0.3,0.685,9,-7.064,1,0.0331,0.00407,0.227,0.0873,110.272,373267,1981
+Purgatory - 2015 Remaster,Killers (2015 - Remaster),35,1981-02-02,0.531,0.29,0.965,11,-6.146,0,0.147,0.000916,0.0409,0.762,70.711,200560,1981
+Drifter - 2015 Remaster,Killers (2015 - Remaster),31,1981-02-02,0.475,0.34,0.974,0,-5.114,1,0.106,0.000473,0.0928,0.373,101.276,288947,1981
+The Ides of March - 2015 Remaster,Killers (2015 Remaster),42,1981-01-01,0.333,0.296,0.744,9,-6.064,1,0.0366,0.00402,0.877,0.121,97.328,105267,1981
+Wrathchild - 2015 Remaster,Killers (2015 Remaster),52,1981-01-01,0.782,0.438,0.93,9,-4.959,1,0.0484,0.0188,0.349,0.196,104.812,175053,1981
+Murders in the Rue Morgue - 2015 Remaster,Killers (2015 Remaster),45,1981-01-01,0.425,0.272,0.925,9,-6.126,1,0.0545,0.00356,0.00198,0.0742,106.505,258880,1981
+Another Life - 2015 Remaster,Killers (2015 Remaster),41,1981-01-01,0.666,0.201,0.959,2,-5.13,1,0.14,0.00113,0.422,0.177,184.314,203507,1981
+Genghis Khan - 2015 Remaster,Killers (2015 Remaster),42,1981-01-01,0.557,0.291,0.894,0,-7.223,1,0.0454,0.000149,0.887,0.11,112.897,187547,1981
+Innocent Exile - 2015 Remaster,Killers (2015 Remaster),40,1981-01-01,0.652,0.257,0.937,0,-5.195,1,0.0693,0.00119,0.507,0.184,101.224,233067,1981
+Killers - 2015 Remaster,Killers (2015 Remaster),51,1981-01-01,0.395,0.219,0.939,9,-5.333,1,0.0935,0.00547,0.00149,0.0529,83.739,301667,1981
+Prodigal Son - 2015 Remaster,Killers (2015 Remaster),41,1981-01-01,0.317,0.3,0.685,9,-7.064,1,0.0331,0.00407,0.227,0.0873,110.272,373267,1981
+Purgatory - 2015 Remaster,Killers (2015 Remaster),43,1981-01-01,0.531,0.29,0.965,11,-6.146,0,0.147,0.000916,0.0409,0.762,70.711,200560,1981
+Drifter - 2015 Remaster,Killers (2015 Remaster),39,1981-01-01,0.475,0.34,0.974,0,-5.114,1,0.106,0.000473,0.0928,0.373,101.276,288947,1981
+Prowler - 2015 Remaster,Iron Maiden (2015 - Remaster),43,1980-04-14,0.32,0.295,0.934,4,-5.231,0,0.0668,0.000787,0.0029,0.482,96.636,235400,1980
+Remember Tomorrow - 2015 Remaster,Iron Maiden (2015 - Remaster),36,1980-04-14,0.548,0.264,0.712,0,-7.358,1,0.0331,0.00169,0.0468,0.131,97.885,328920,1980
+Running Free - 2015 Remaster,Iron Maiden (2015 - Remaster),42,1980-04-14,0.764,0.478,0.823,11,-5.346,0,0.206,0.000777,0.229,0.169,171.263,197573,1980
+Phantom of the Opera - 2015 Remaster,Iron Maiden (2015 - Remaster),47,1980-04-14,0.228,0.319,0.952,4,-5.315,0,0.0723,6.28e-05,0.154,0.918,109.275,441467,1980
+Transylvania - 2015 Remaster,Iron Maiden (2015 - Remaster),41,1980-04-14,0.214,0.221,0.983,0,-3.204,1,0.15,0.000927,0.971,0.881,107.26,244853,1980
+Strange World - 2015 Remaster,Iron Maiden (2015 - Remaster),35,1980-04-14,0.194,0.36,0.538,4,-7.334,0,0.0324,0.0193,0.0518,0.364,125.683,347347,1980
+Charlotte the Harlot - 2015 Remaster,Iron Maiden (2015 - Remaster),33,1980-04-14,0.463,0.358,0.958,0,-4.117,1,0.133,0.0104,8.2e-06,0.406,106.922,253053,1980
+Iron Maiden - 2015 Remaster,Iron Maiden (2015 - Remaster),41,1980-04-14,0.277,0.322,0.988,0,-4.074,1,0.232,0.000731,0.00411,0.451,101.559,214360,1980
+Prowler - 2015 Remaster,Iron Maiden (2015 Remaster),53,1980-01-01,0.32,0.295,0.934,4,-5.231,0,0.0668,0.000787,0.0029,0.482,96.636,235400,1980
+Remember Tomorrow - 2015 Remaster,Iron Maiden (2015 Remaster),45,1980-01-01,0.548,0.264,0.712,0,-7.358,1,0.0331,0.00169,0.0468,0.131,97.885,328920,1980
+Running Free - 2015 Remaster,Iron Maiden (2015 Remaster),52,1980-01-01,0.764,0.478,0.823,11,-5.346,0,0.206,0.000777,0.229,0.169,171.263,197573,1980
+Phantom of the Opera - 2015 Remaster,Iron Maiden (2015 Remaster),59,1980-01-01,0.228,0.319,0.952,4,-5.315,0,0.0723,6.28e-05,0.154,0.918,109.275,441467,1980
+Transylvania - 2015 Remaster,Iron Maiden (2015 Remaster),52,1980-01-01,0.214,0.221,0.983,0,-3.204,1,0.15,0.000927,0.971,0.881,107.26,244853,1980
+Strange World - 2015 Remaster,Iron Maiden (2015 Remaster),47,1980-01-01,0.194,0.36,0.538,4,-7.334,0,0.0324,0.0193,0.0518,0.364,125.683,347347,1980
+Charlotte the Harlot - 2015 Remaster,Iron Maiden (2015 Remaster),42,1980-01-01,0.463,0.358,0.958,0,-4.117,1,0.133,0.0104,8.2e-06,0.406,106.922,253053,1980
+Iron Maiden - 2015 Remaster,Iron Maiden (2015 Remaster),50,1980-01-01,0.277,0.322,0.988,0,-4.074,1,0.232,0.000731,0.00411,0.451,101.559,214360,1980
